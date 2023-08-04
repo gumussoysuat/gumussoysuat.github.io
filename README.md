@@ -14,7 +14,7 @@ He is a Senior Member of IEEE since 2020 and a member of [IFAC Technical Committ
 **@MathWorks:** Key contributions to [Control System Toolbox](https://www.mathworks.com/products/control.html), [Robust Control Toolbox](https://www.mathworks.com/products/robust.html), [System Identification Toolbox](https://www.mathworks.com/products/sysid.html) and [Reinforcement Learning Toolbox](https://www.mathworks.com/products/reinforcement-learning.html). Some highlights:
 <ul>
   <li><b>Toolbox:</b> Lead engineer and architect in <a href="https://www.mathworks.com/products/reinforcement-learning.html">Reinforcement Learning Toolbox</a> including software architecture design, algorithm implementation, and team supervision.</li>
-  <li><b>Algorithms:</b> Designed and implemented essential algorithms for MATLAB.
+  <li><b>Algorithms:</b> Designed and implemented essential algorithms for MATLAB.</li>
     <ul>    
       <li>Designed more accurate <a href="https://www.mathworks.com/help/control/ref/c2d.html">continuous to discrete conversion algorithm</a> in c2d, least squares option.</li>
       <li>Authored faster and more accurate <a href="https://www.mathworks.com/help/releases/R2016b/ident/ref/tfest.html">transfer function estimation algorithm</a> from frequency-domain data in tfest.</li>
