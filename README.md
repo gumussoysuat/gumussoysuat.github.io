@@ -1,13 +1,45 @@
 # Suat Gumussoy <a href="https://www.linkedin.com/in/gumussoysuat"><img src="https://i.stack.imgur.com/gVE0j.png" width="20"/></a>[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=yW-r4J8AAAAJ&hl=en)
 
-## Research 
-![Suat](assets/Suat1.jpg) Dr. Gumussoy is a senior key expert on data-driven control at Autonomous Systems & Control Group at Siemens Technology in Princeton, NJ. His general research interests are *learning, control, identification, optimization and scientific computing with particular focus on reinforcement learning, data-driven control, frequency domain system identification, time-delay systems and their numerical software implementations.*
+## Bio :hand:
+
+<table style="width: 100%">
+    <colgroup>
+       <col span="1" style="width: 40%;">
+       <col span="1" style="width: 60%;">
+    </colgroup>  
+<tr>
+  <td>
+    <img src="assets/Suat.jpg" width="150" height="200" /> 
+  </td>
+  
+  <td>
+    Dr. Gumussoy is a senior key expert on data-driven control at Autonomous Systems & Control Group at Siemens Technology in Princeton, NJ. His general research interests are *learning, control, identification, optimization and scientific computing with particular focus on reinforcement learning, data-driven control, frequency domain system identification, time-delay systems and their numerical software implementations.*
 
 He is a Senior Member of IEEE since 2020 and a member of [IFAC Technical Committee on Linear Control Systems](https://tc.ifac-control.org/2/2) since 2022. He served as an Associate Editor in [IEEE Transactions on Control Systems Technology](http://ieeecss.org/publication/transactions-control-systems-technology) (2018-2022) and [IEEE Conference Editorial Board](http://ieeecss.org/conferences/conference-editorial-board) (2018-2022).
+</td>
+</tr>
+</table>
+
+<table style="width: 100%">
+    <colgroup>
+       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 70%;">
+       <col span="1" style="width: 15%;">
+    </colgroup>
+    
+    <!-- Put <thead>, <tbody>, and <tr>'s here! -->
+    <tbody>
+        <tr>
+            <td style="background-color: #777">15%</td>
+            <td style="background-color: #aaa">70%</td>
+            <td style="background-color: #777">15%</td>
+        </tr>
+    </tbody>
+</table>
 
 **Email:** last_name first_name at hotmail dot com
 
-## Software
+## Software :computer:
 
 **@Siemens:** Jointly architected a reinforcement learning toolbox, SCS-Reinforce, inside [Simcenter Studio](https://www.plm.automation.siemens.com/global/en/products/simcenter/simcenter-studio.html) with Siemens DI SW. Working together for the next cool features for our customers. Implemented new algorithms for tuning and calibration of power systems.
 
@@ -27,10 +59,10 @@ He is a Senior Member of IEEE since 2020 and a member of [IFAC Technical Committ
 
 **@New York University, Courant Institute of Mathematical Sciences:** Contributed to the [MATLAB toolbox for fixed-order controller design](http://www.cs.nyu.edu/overton/software/hifoo/) (HIFOO). This toolbox solves several key control problems including fixed-order (strong/simultaneous) stabilization, H-infinity & H-2 optimization for mixed problems and multiple plants.
 
-## Publications
+## Publications :mag_right:
 
 ### Patents
-[P1] **S. Gumussoy**, P. J. Mosterman, A. Ozdemir, [Discretization of a model of a system or a portion of the model using system inputs and outputs](https://patents.google.com/patent/US20190026404A1/en). US Patent App., 15/656,560, 2019.
+**[P1]** **S. Gumussoy**, P. J. Mosterman, A. Ozdemir, [Discretization of a model of a system or a portion of the model using system inputs and outputs](https://patents.google.com/patent/US20190026404A1/en). US Patent App., 15/656,560, 2019.
 
 ### Journal Papers
 **[J19]** S. An, G. Bhat, **S. Gumussoy** and U. Y. Ogras, [Transfer Learning for Human Activity Recognition using Representational Analysis of Neural Networks](https://doi.org/10.1145/3563948). ACM Transactions on Computing for Healthcare, vol. 4, no. 5, pp. 1-21, 2023. [arXiv](https://arxiv.org/abs/2012.04479)
@@ -73,8 +105,94 @@ He is a Senior Member of IEEE since 2020 and a member of [IFAC Technical Committ
 
 ### Conference Proceedings and Abstracts
 
+**[C35]** T. Basaklar, **S. Gumussoy** and U. Y, Ogras, [PD-MORL: Preference-Driven Multi-Objective Reinforcement Lesarning Algorithm](https://openreview.net/forum?id=zS9sRyaPFlJ). NeurIPS Deep RL Workshop. 2022. 11th International Conference on Learning Representations (ICLR) Design, 2023. [arXiv](https://arxiv.org/abs/2208.07914)
+
+**[C34]** T. Basaklar, Y. Tuncel, **S. Gumussoy** and U. Y, Ogras, [GEM-RL: Generalized Energy Management of Wearable Devices using Reinforcement Learning](https://doi.org/10.23919/DATE56975.2023.10137228). Design, Automation and Test in Europe (DATE), April 2023.
+
+**[C33]** K. Fetzer, J. Menu and **S. Gumussoy**, Rule Extraction for Black-box Algorithm Analysis and Implementation.  15th Simulation and Digital Twin Conference, Munich, Germany, 2022.
+
+**[C32]** **S. Gumussoy**, [SSD–Software for Systems with Delays: Reproducible Examples and Benchmarks on Model Reduction and H2 Norm Computation](https://doi.org/10.1016/j.ifacol.2022.11.367).  Joint IFAC Conference: SSSC-TDS-LPVS, Montreal, Canada, 2022. [arXiv](https://arxiv.org/abs/2208.11827.pdf)
+
+**[C31]** N. Xue, X. Wu, **S. Gumussoy**, U. Muenz, A. Mesanovic, Z. Dong, G. Bharati, S. Chakraborty, L. Cockcroft  and L. Dangelmaier, [Dynamic Security Optimization for N-1 Secure Operation of Power Systems with 100% Non-Synchronous Generation: First experiences from Hawai'i Island](https://doi.org/10.1109/PESGM46819.2021.9638130). IEEE Power & Energy Society General Meeting, 2021.
+
+**[C30]** T. Basaklar, Y. Tuncel, S. Y. Narayana, **S. Gumussoy** and U. Y. Ogras, [Hypervector Design for Efficient Hyperdimensional Computing on Edge Devices](https://arxiv.org/abs/2103.06709). tinyML Research Symposium, 2021.
+
+**[C29]** G. Bhat, **S. Gumussoy** and U. Y. Ogras, [Power and Thermal Analysis of Commercial Mobile Platforms: Experiments and Case Studies](https://doi.org/10.23919/DATE.2019.8714831). Design, Automation & Test in Europe Conference & Exhibition (DATE), pp. 144-149, 2019. [arXiv](https://arxiv.org/abs/1904.09814)
+
+**[C28]** **S. Gumussoy**, and H. Ozbay, [On Feedback Stabilization of Neutral Time Delay Systems with Infinitely Many Unstable Poles](https://doi.org/10.1016/j.ifacol.2018.07.209).  14th IFAC Workshop on Time Delay Systems, Budapest, Hungary, June 28-30, 2018.
+
+**[C27]** **S. Gumussoy**, A. A. Ozdemir, T. McKelvey, L. Ljung, M. Gibanica, and R. Singh, [Improving Linear State-space Models with Additional Iterations](https://doi.org/10.1016/j.ifacol.2018.09.158).  18th IFAC Symposium on System Identification, Stockholm, Sweden, July 9-11, 2018. [arXiv](https://arxiv.org/abs/2003.06304)
+
+**[C26]** G. Bhat, **S. Gumussoy** and U. Y. Ogras, [Power-Temperature Stability and Safety Analysis for Multiprocessor Systems](https://doi.org/10.1145/3126567). 54th Design Automation Conference, Austin, Texas, USA, June 18-22, 2017. [preprint](http://elab.engineering.asu.edu/wp-content/uploads/2017/08/BhatESWEEK2017.pdf)
+
+**[C25]** A. A. Ozdemir  and **S. Gumussoy**, [Transfer Function Estimation in System Identification Toolbox via Vector Fitting](https://doi.org/10.1016/j.ifacol.2017.08.1026). 20th IFAC World Congress, Toulouse, France, July 9-14, 2017. [arXiv](https://arxiv.org/abs/2003.06289)
+
+**[C24]** U. Gupta, J. Campbell, U. Y. Ogras, R. Ayoub, M. Kishinevsky, F. Paterna and **S. Gumussoy**, [Adaptive Performance Prediction for Integrated GPUs](https://doi.org/10.1145/2966986.2966997). International Conference on Computer-Aided Design (ICCAD), Austin, USA, November 7-10, 2016. [preprint](https://elab.engineering.asu.edu/wp-content/uploads/2016/07/GuptaICCAD2016.pdf)
+
+**[C23]** **S. Gumussoy**, B. Eryilmaz and P. Gahinet, [Working with Time-Delay Systems in MATLAB](https://doi.org/10.3182/20120622-3-US-4021.00041).  10th IFAC Workshop on Time-Delay Systems, Boston, USA, June 22-24, 2012. [arXiv](https://arxiv.org/abs/2003.04677v1)
+
+**[C22]** W. Michiels and **S. Gumussoy**, [Eigenvalue based Analysis and Controller Synthesis for Systems described by Delay Differential Algebraic Equations](https://doi.org/10.3182/20120622-3-US-4021.00015).  10th IFAC Workshop on Time-Delay Systems, Boston, USA, June 22-24, 2012. [arXiv](https://arxiv.org/abs/2003.05496v1)
+
+**[C21]** **S. Gumussoy** and W. Michiels, [Direct Strong H-infinity Norm Computation for SISO Time-Delay Systems](https://drive.google.com/file/d/1EqZlq9W7WuUkE9RBfplYHi8OGY6uhuai/view?usp=sharing) (invited session).  3rd International Conference on Control and Optimization with Industrial Applications, Ankara, Turkey, August 22-24, 2011.
+
+**[C20]** D. Arzelier, G. Deaconu, **S. Gumussoy** and D. Henrion, [H2 for HIFOO](https://arxiv.org/abs/1010.1442) (invited session). 3rd International Conference on Control and Optimization with Industrial Applications, Ankara, Turkey, August 22-24, 2011. [abstract](https://drive.google.com/file/d/1JcFxDxoW8YT2z6_OBdEj-_jTwiCJ6SNt/view?usp=sharing)
+
+**[C19]** **S. Gumussoy** and W. Michiels, [Fixed-order strong H-infinity control of interconnected systems with time-delay](https://doi.org/10.3182/20110828-6-IT-1002.02036) (minisymposium). 18th IFAC World Congress, Milano, Italy, August 28-September 2, 2011. [arXiv](https://arxiv.org/abs/2003.05728)
+
+**[C18]** **S. Gumussoy** and W. Michiels, [On the sensitivity of the H-infinity norm of interconnected systems with time-delays](https://doi.org/10.3182/20110828-6-IT-1002.00834) (minisymposium). 18th IFAC World Congress, Milano, Italy, August 28-September 2, 2011. [arXiv](https://arxiv.org/abs/2003.04695)
+
+**[C17]** **S. Gumussoy** and W. Michiels, [Continuation Based Computation of Root-Locus for SISO Dead-Time Systems](https://doi.org/10.3182/20100607-3-CZ-4010.00016). 9th IFAC Workshop on Time-Delay Systems, 2010. [arXiv](https://arxiv.org/abs/2003.04672)
+
+**[C16]** **S. Gumussoy** and W. Michiels, [Computing H-infinity Norms of Time-Delay Systems](https://doi.org/10.1109/CDC.2009.5400668). 48th IEEE Conference on Decision and Control, pp. 263-268, 2009. [arXiv](https://arxiv.org/abs/2003.03248)
+
+**[C15]** **S. Gumussoy** and W. Michiels, [Fixed-Order H-infinity Optimization of Time-Delay Systems](https://drive.google.com/file/d/1BtasnDC-n26doneCZVF22Jg2CVZ1PVEg/view?usp=sharing). 14th Belgian-French-German Conference on Optimization, 2009. [slides](https://drive.google.com/file/d/1ywcsJ2RxENeONHP_sgpStPQ3l9Z-5Pym/view?usp=sharing)
+
+**[C14]** **S. Gumussoy** and W. Michiels, [Computing the Pseudospectral Abscissa of Time-Delay Systems](https://doi.org/10.3182/20090901-3-RO-4009.00019). 8th IFAC Workshop on Time-Delay Systems, 2009. [arXiv](https://arxiv.org/abs/2003.04737)
+
+**[C13]** **S. Gumussoy**, D. Henrion, M. Millstone and M. L. Overton, [Multiobjective robust control with HIFOO 2.0](https://doi.org/10.3182/20090616-3-IL-2002.00025). 6th IFAC Symposium on Robust Control Design, 2009. [arXiv](https://arxiv.org/abs/0905.3229)
+
+**[C12]** **S. Gumussoy** and W. Michiels, [Computing H-infinity Norms of Time-Delay Systems](https://drive.google.com/file/d/11eohIAzbAGJsHgj4UkYW8ubpXlp-UyQm/view?usp=sharing). 28th Benelux Meeting on Systems and Control, 2009. [slides](https://drive.google.com/file/d/1xzjYlK0tX3XahLN8yKLyRwiVGhuY3sOZ/view?usp=sharing)
+
+**[C11]** **S. Gumussoy**, M. Millstone and M. L. Overton, [H-infinity Strong Stabilization via HIFOO, a Package for Fixed-Order Controller Design](https://doi.org/10.1109/CDC.2008.4738750). 47th IEEE Conference on Decision and Control, pp. 4135-4140 , 2008. [arXiv](https://arxiv.org/abs/2003.03853)
+
+**[C10]** **S. Gumussoy**, M. Millstone and M. L. Overton, [Design of Fixed-Order Controllers via Nonsmooth Optimization](https://drive.google.com/file/d/1D7_tuOKJ5Y071SBajTkVL1Z7RTOn5K6C/view?usp=sharing). SIAM Conference on Optimization, Boston, MA, 2008. [slides](https://drive.google.com/file/d/1vdTd9AFsZyc2tSjqZ-n8jVESOzq4b6FY/view?usp=sharing)
+
+**[C9]** **S. Gumussoy**, [On the Zeros of Quasi-Polynomials with Single-Delay](https://doi.org/10.1109/ACC.2008.4587334). American Control Conference, pp. 5282-5286, 2008. [arXiv](https://arxiv.org/abs/2003.02292)
+
+**[C8]** **S. Gumussoy** and M. L. Overton, [Fixed-Order H-Infinity Controller Design via HIFOO, a Specialized Nonsmooth Optimization Package](https://doi.org/10.1109/ACC.2008.4586909). American Control Conference, pp. 2750-2754, 2008. [arXiv](https://arxiv.org/abs/2003.02295)
+
+**[C7]** **S. Gumussoy** and H. Ozbay, [Sensitivity Minimization by Stable Controllers: An Interpolation Approach for Suboptimal Solutions](https://doi.org/10.1109/CDC.2007.4434901). 46th IEEE Conference on Decision and Control, pp. 6071-6076, 2007. [arXiv](https://arxiv.org/abs/2003.01631v1)
+
+**[C6]** **S. Gumussoy** and H. Ozbay, [Sensitivity minimization by stable controllers for a class of unstable time-delay systems](https://doi.org/10.1109/ICARCV.2006.345194). 9th International Conference on Control, Automation, Robotics and Vision, pp. 1-5, 2006. [arXiv](https://arxiv.org/abs/2003.01631)
+
+**[C5]** H. Ozbay and **S. Gumussoy**, [Remarks on H-infinity Controller Design for SISO Plants with Time Delays](https://arxiv.org/abs/2003.01701). 5th IFAC Symposium on Robust Control Design, 2006.
+
+**[C4]** **S. Gumussoy** and H. Ozbay, [Remarks on Strong Stabilization and Stable H-infinity Controller Design](https://arxiv.org/abs/2003.01089v1). 43rd IEEE Conference on Decision and Control, vol. 3, pp. 2621-2624, 2004.
+
+**[C3]** **S. Gumussoy** and H. Ozbay, [On Stable H-infinity Controllers for Time Delay Systems](https://arxiv.org/abs/2003.01573). 16th International Symposium on Mathematical Theory of Network and Systems, 2004.
+
+**[C2]** M. Saglam, S. Ezercan, **S. Gumussoy** and H. Ozbay, [Controller tuning for active queue management using a parameter space method](https://arxiv.org/abs/2003.01076). 16th International Symposium on Mathematical Theory of Network and Systems, 2004.
+
+**[C1]** **S. Gumussoy** and H. Ozbay, [Control of Systems with Infinitely Many Unstable Modes and Strong Stabilizing Controllers Achieving a Desired Sensitivity](https://arxiv.org/abs/2003.01003). 15th International Symposium on Mathematical Theory of Network and Systems, pp. 1-10, 2002.
+
 ### Book
+
+H. Ozbay, **S. Gumussoy**, K. Kashima and Y. Yamamoto, [Frequency Domain Techniques for H-Infinity Control of Distributed Parameter Systems](https://my.siam.org/Store/Product/viewproduct/?ProductId=30155563). Advances in Design and Control, SIAM, 2018.
 
 ### Book Chapters
 
+**[BC4]** **S. Gumussoy** and W. Michiels, [Tuning an H-Infinity Controller with a Given Order and a Structure for Interconnected Systems with Delays](http://dx.doi.org/10.1007/978-3-319-05576-3_7). Low-Complexity Controllers for Time-Delay Systems, Advances in Delays and Dynamics (edited volume), pp. 95-110, Springer, 2014. [arXiv](https://arxiv.org/abs/2003.12356)
+
+**[BC3]** **S. Gumussoy** and P. Gahinet, [Computer Aided Control System Design for Time Delay Systems using MATLAB](http://dx.doi.org/10.1007/978-3-319-01695-5_19). Delay Systems, Advances in Delays and Dynamics (edited volume), pp. 257-270, Springer, 2013. [arXiv](https://arxiv.org/abs/2003.04677)
+
+**[BC2]** W. Michiels and **S. Gumussoy**, [Eigenvalue based algorithms and software for the design of fixed-order stabilizing controllers for interconnected systems with time-delays](http://dx.doi.org/10.1007/978-3-319-01695-5_18). Delay Systems, Advances in Delays and Dynamics (edited volume), pp. 243-256, Springer, 2013. [arXiv](https://arxiv.org/abs/2003.05496)
+
+**[BC1]** **S. Gumussoy** and W. Michiels, [Fixed-order H-infinity Optimization of Time-Delay Systems](https://doi.org/10.1007/978-3-642-12598-0_10). Recent Advances in Optimization and its Applications in Engineering (edited volume), pp. 103-112, Springer, 2010. [arXiv](https://arxiv.org/abs/2003.10628)
+
 ### Others
+
+**[Thesis]** **S. Gumussoy**, [Optimal H-infinity controller design and strong stabilization for time-delay and MIMO systems](http://rave.ohiolink.edu/etdc/view?acc_num=osu1092850391). Ph.D. Thesis, Ohio State University, Electrical Engineering, 2004.
+
+**[Webinar]** **S. Gumussoy**, [Time-Delay Systems: Analysis and Design with MATLAB and Simulink](http://www.mathworks.com/videos/time-delay-systems-analysis-and-design-with-matlab-and-simulink-81948.html). MathWorks, December 4, 2012.
+
+**[Blog]** P. Gahinet, **S. Gumussoy**, E. Korkut and M. Cuenant, [Control System Tuning without Guess or Stress](http://blogs.mathworks.com/seth/2014/04/03/control-system-tuning-without-guess-or-stress/). MathWorks, April 3, 2014.
