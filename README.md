@@ -22,7 +22,7 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 
 **Email:** last_name first_name at hotmail dot com
 
-## Software :computer:
+## Software <img src="assets/icon_sw.png" width="30" />
 
 **@Siemens:** Jointly architected a reinforcement learning toolbox, SCS-Reinforce, inside [Simcenter Studio](https://www.plm.automation.siemens.com/global/en/products/simcenter/simcenter-studio.html) with Siemens DI SW. Working together for the next cool features for our customers. Implemented new algorithms for tuning and calibration of power systems.
 
