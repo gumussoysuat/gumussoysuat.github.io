@@ -1,4 +1,6 @@
-# Suat Gumussoy <a href="https://www.linkedin.com/in/gumussoysuat"><img src="https://i.stack.imgur.com/gVE0j.png" width="20"/></a>[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=yW-r4J8AAAAJ&hl=en)
+# Suat Gumussoy <a href="https://www.linkedin.com/in/gumussoysuat"><img src="assets/icon_linkedin.png" width="30" /></a>
+
+<a href="https://www.linkedin.com/in/gumussoysuat"><img src="https://i.stack.imgur.com/gVE0j.png" width="20"/></a>[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=yW-r4J8AAAAJ&hl=en)
 
 ## Bio :hand:
 
