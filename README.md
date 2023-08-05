@@ -9,7 +9,7 @@
     </colgroup>  
 <tr>
   <td>
-    <img src="assets/Suat.jpg" width="150" height="200" /> 
+    <img src="assets/Suat.jpg" width="150" /> 
   </td>
   
   <td>
