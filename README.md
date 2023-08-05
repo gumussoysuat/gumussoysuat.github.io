@@ -4,8 +4,8 @@
 
 <table style="width: 100%">
     <colgroup>
-       <col span="1" style="width: 40%;">
-       <col span="1" style="width: 60%;">
+       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 80%;">
     </colgroup>  
 <tr>
   <td>
@@ -18,23 +18,6 @@
 He is a Senior Member of IEEE since 2020 and a member of [IFAC Technical Committee on Linear Control Systems](https://tc.ifac-control.org/2/2) since 2022. He served as an Associate Editor in [IEEE Transactions on Control Systems Technology](http://ieeecss.org/publication/transactions-control-systems-technology) (2018-2022) and [IEEE Conference Editorial Board](http://ieeecss.org/conferences/conference-editorial-board) (2018-2022).
 </td>
 </tr>
-</table>
-
-<table style="width: 100%">
-    <colgroup>
-       <col span="1" style="width: 15%;">
-       <col span="1" style="width: 70%;">
-       <col span="1" style="width: 15%;">
-    </colgroup>
-    
-    <!-- Put <thead>, <tbody>, and <tr>'s here! -->
-    <tbody>
-        <tr>
-            <td style="background-color: #777">15%</td>
-            <td style="background-color: #aaa">70%</td>
-            <td style="background-color: #777">15%</td>
-        </tr>
-    </tbody>
 </table>
 
 **Email:** last_name first_name at hotmail dot com
