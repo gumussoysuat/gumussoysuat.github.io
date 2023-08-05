@@ -13,9 +13,9 @@
   </td>
   
   <td>
-    Dr. Gumussoy is a senior key expert on data-driven control at Autonomous Systems & Control Group at Siemens Technology in Princeton, NJ. His general research interests are *learning, control, identification, optimization and scientific computing with particular focus on reinforcement learning, data-driven control, frequency domain system identification, time-delay systems and their numerical software implementations.*
+<p>Dr. Gumussoy is a senior key expert on data-driven control at Autonomous Systems & Control Group at Siemens Technology in Princeton, NJ. His general research interests are <em>learning, control, identification, optimization and scientific computing with particular focus on reinforcement learning, data-driven control, frequency domain system identification, time-delay systems and their numerical software implementations.</em></p>
 
-He is a Senior Member of IEEE since 2020 and a member of [IFAC Technical Committee on Linear Control Systems](https://tc.ifac-control.org/2/2) since 2022. He served as an Associate Editor in [IEEE Transactions on Control Systems Technology](http://ieeecss.org/publication/transactions-control-systems-technology) (2018-2022) and [IEEE Conference Editorial Board](http://ieeecss.org/conferences/conference-editorial-board) (2018-2022).
+He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifac-control.org/2/2">IFAC Technical Committee on Linear Control Systems</a> since 2022. He served as an Associate Editor in <a href="http://ieeecss.org/publication/transactions-control-systems-technology">IEEE Transactions on Control Systems Technology</a> (2018-2022) and <a href="http://ieeecss.org/conferences/conference-editorial-board">IEEE Conference Editorial Board</a> (2018-2022).
 </td>
 </tr>
 </table>
