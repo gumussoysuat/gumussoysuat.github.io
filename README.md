@@ -116,9 +116,9 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 
 **[C22]** W. Michiels and **S. Gumussoy**, [Eigenvalue based Analysis and Controller Synthesis for Systems described by Delay Differential Algebraic Equations](https://doi.org/10.3182/20120622-3-US-4021.00015).  10th IFAC Workshop on Time-Delay Systems, Boston, USA, June 22-24, 2012. [arXiv](https://arxiv.org/abs/2003.05496v1)
 
-**[C21]** **S. Gumussoy** and W. Michiels, [Direct Strong H-infinity Norm Computation for SISO Time-Delay Systems](https://drive.google.com/file/d/1EqZlq9W7WuUkE9RBfplYHi8OGY6uhuai/view?usp=sharing) (invited session).  3rd International Conference on Control and Optimization with Industrial Applications, Ankara, Turkey, August 22-24, 2011.
+**[C21]** **S. Gumussoy** and W. Michiels, [Direct Strong H-infinity Norm Computation for SISO Time-Delay Systems](/assets/coia2011A.pdf) (invited session).  3rd International Conference on Control and Optimization with Industrial Applications, Ankara, Turkey, August 22-24, 2011.
 
-**[C20]** D. Arzelier, G. Deaconu, **S. Gumussoy** and D. Henrion, [H2 for HIFOO](https://arxiv.org/abs/1010.1442) (invited session). 3rd International Conference on Control and Optimization with Industrial Applications, Ankara, Turkey, August 22-24, 2011. [abstract](https://drive.google.com/file/d/1JcFxDxoW8YT2z6_OBdEj-_jTwiCJ6SNt/view?usp=sharing)
+**[C20]** D. Arzelier, G. Deaconu, **S. Gumussoy** and D. Henrion, [H2 for HIFOO](https://arxiv.org/abs/1010.1442) (invited session). 3rd International Conference on Control and Optimization with Industrial Applications, Ankara, Turkey, August 22-24, 2011. [abstract](/assets/coia2011B.pdf)
 
 **[C19]** **S. Gumussoy** and W. Michiels, [Fixed-order strong H-infinity control of interconnected systems with time-delay](https://doi.org/10.3182/20110828-6-IT-1002.02036) (minisymposium). 18th IFAC World Congress, Milano, Italy, August 28-September 2, 2011. [arXiv](https://arxiv.org/abs/2003.05728)
 
@@ -128,17 +128,17 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 
 **[C16]** **S. Gumussoy** and W. Michiels, [Computing H-infinity Norms of Time-Delay Systems](https://doi.org/10.1109/CDC.2009.5400668). 48th IEEE Conference on Decision and Control, pp. 263-268, 2009. [arXiv](https://arxiv.org/abs/2003.03248)
 
-**[C15]** **S. Gumussoy** and W. Michiels, [Fixed-Order H-infinity Optimization of Time-Delay Systems](https://drive.google.com/file/d/1BtasnDC-n26doneCZVF22Jg2CVZ1PVEg/view?usp=sharing). 14th Belgian-French-German Conference on Optimization, 2009. [slides](https://drive.google.com/file/d/1ywcsJ2RxENeONHP_sgpStPQ3l9Z-5Pym/view?usp=sharing)
+**[C15]** **S. Gumussoy** and W. Michiels, [Fixed-Order H-infinity Optimization of Time-Delay Systems](/assets/bfg2009.pdf). 14th Belgian-French-German Conference on Optimization, 2009. [slides](/assets/bfg2009_slides.pdf)
 
 **[C14]** **S. Gumussoy** and W. Michiels, [Computing the Pseudospectral Abscissa of Time-Delay Systems](https://doi.org/10.3182/20090901-3-RO-4009.00019). 8th IFAC Workshop on Time-Delay Systems, 2009. [arXiv](https://arxiv.org/abs/2003.04737)
 
 **[C13]** **S. Gumussoy**, D. Henrion, M. Millstone and M. L. Overton, [Multiobjective robust control with HIFOO 2.0](https://doi.org/10.3182/20090616-3-IL-2002.00025). 6th IFAC Symposium on Robust Control Design, 2009. [arXiv](https://arxiv.org/abs/0905.3229)
 
-**[C12]** **S. Gumussoy** and W. Michiels, [Computing H-infinity Norms of Time-Delay Systems](https://drive.google.com/file/d/11eohIAzbAGJsHgj4UkYW8ubpXlp-UyQm/view?usp=sharing). 28th Benelux Meeting on Systems and Control, 2009. [slides](https://drive.google.com/file/d/1xzjYlK0tX3XahLN8yKLyRwiVGhuY3sOZ/view?usp=sharing)
+**[C12]** **S. Gumussoy** and W. Michiels, [Computing H-infinity Norms of Time-Delay Systems](/assets/benelux2009.pdf). 28th Benelux Meeting on Systems and Control, 2009. [slides](/assets/benelux2009_slides.pdf)
 
 **[C11]** **S. Gumussoy**, M. Millstone and M. L. Overton, [H-infinity Strong Stabilization via HIFOO, a Package for Fixed-Order Controller Design](https://doi.org/10.1109/CDC.2008.4738750). 47th IEEE Conference on Decision and Control, pp. 4135-4140 , 2008. [arXiv](https://arxiv.org/abs/2003.03853)
 
-**[C10]** **S. Gumussoy**, M. Millstone and M. L. Overton, [Design of Fixed-Order Controllers via Nonsmooth Optimization](https://drive.google.com/file/d/1D7_tuOKJ5Y071SBajTkVL1Z7RTOn5K6C/view?usp=sharing). SIAM Conference on Optimization, Boston, MA, 2008. [slides](https://drive.google.com/file/d/1vdTd9AFsZyc2tSjqZ-n8jVESOzq4b6FY/view?usp=sharing)
+**[C10]** **S. Gumussoy**, M. Millstone and M. L. Overton, [Design of Fixed-Order Controllers via Nonsmooth Optimization](/assets/op2008.pdf). SIAM Conference on Optimization, Boston, MA, 2008. [slides](/assets/SIAMOP08-HIFOO.pdf)
 
 **[C9]** **S. Gumussoy**, [On the Zeros of Quasi-Polynomials with Single-Delay](https://doi.org/10.1109/ACC.2008.4587334). American Control Conference, pp. 5282-5286, 2008. [arXiv](https://arxiv.org/abs/2003.02292)
 
