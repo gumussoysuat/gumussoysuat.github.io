@@ -1,6 +1,6 @@
 # Suat Gumussoy <a href="https://www.linkedin.com/in/gumussoysuat"><img src="assets/icon_linkedin.png" width="30" /></a><a href="https://scholar.google.com/citations?user=yW-r4J8AAAAJ&hl=en"><img src="assets/icon_google_scholar.png" width="30" /></a><a href="https://arxiv.org/search/eess?searchtype=author&query=Gumussoy%2C+S"><img src="assets/icon_arxiv_small.svg" width="22" /></a><a href="mailto:mylastnamemyfirstname at hotmail dot com"><img src="assets/icon_email.svg" width="30" /></a>
 
-## Bio :hand:
+## Bio <img src="assets/icon_bio.png" width="40" />
 
 <table style="width: 100%">
     <colgroup>
