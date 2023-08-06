@@ -1,6 +1,6 @@
 # Suat Gumussoy <a href="https://www.linkedin.com/in/gumussoysuat"><img src="assets/icon_linkedin.png" width="30" /></a><a href="https://scholar.google.com/citations?user=yW-r4J8AAAAJ&hl=en"><img src="assets/icon_google_scholar.png" width="30" /></a><a href="https://arxiv.org/search/eess?searchtype=author&query=Gumussoy%2C+S"><img src="assets/icon_arxiv_small.svg" width="22" /></a><a href="mailto:mylastnamemyfirstname at hotmail dot com"><img src="assets/icon_email.svg" width="30" /></a>
 
-## Bio <img src="assets/icon_bio.png" width="40" />
+## Bio <img src="assets/icon_bio.png" width="20" />
 
 <table style="width: 100%">
     <colgroup>
@@ -20,7 +20,7 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 </tr>
 </table>
 
-## Software <img src="assets/icon_sw.png" width="30" />
+## Software <img src="assets/icon_sw.png" width="20" />
 
 **@Siemens:** Jointly architected a reinforcement learning toolbox, SCS-Reinforce, inside [Simcenter Studio](https://www.plm.automation.siemens.com/global/en/products/simcenter/simcenter-studio.html) with Siemens DI SW. Working together for the next cool features for our customers. Implemented new algorithms for tuning and calibration of power systems.
 
