@@ -20,7 +20,7 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 </tr>
 </table>
 
-## Software <img src="assets/icon_sw.png" width="20" />
+## Software <img src="assets/icon_sw.png" width="25" />
 
 **@Siemens:** Jointly architected a reinforcement learning toolbox, SCS-Reinforce, inside [Simcenter Studio](https://www.plm.automation.siemens.com/global/en/products/simcenter/simcenter-studio.html) with Siemens DI SW. Working together for the next cool features for our customers. Implemented new algorithms for tuning and calibration of power systems.
 
@@ -40,7 +40,7 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 
 **@New York University, Courant Institute of Mathematical Sciences:** Contributed to the [MATLAB toolbox for fixed-order controller design](http://www.cs.nyu.edu/overton/software/hifoo/) (HIFOO). This toolbox solves several key control problems including fixed-order (strong/simultaneous) stabilization, H-infinity & H-2 optimization for mixed problems and multiple plants.
 
-## Publications :mag_right:
+## Publications <img src="assets/icon_publications.png" width="26" />
 
 ### Patents
 **[P1]** **S. Gumussoy**, P. J. Mosterman, A. Ozdemir, [Discretization of a model of a system or a portion of the model using system inputs and outputs](https://patents.google.com/patent/US20190026404A1/en). US Patent App., 15/656,560, 2019.
