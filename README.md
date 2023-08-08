@@ -162,13 +162,13 @@ H. Ozbay, **S. Gumussoy**, K. Kashima and Y. Yamamoto, [Frequency Domain Techniq
 
 ### Book Chapters
 
-**[BC4]** **S. Gumussoy** and W. Michiels, [Tuning an H-Infinity Controller with a Given Order and a Structure for Interconnected Systems with Delays](http://dx.doi.org/10.1007/978-3-319-05576-3_7). Low-Complexity Controllers for Time-Delay Systems, Advances in Delays and Dynamics (edited volume), pp. 95-110, Springer, 2014. [arXiv](https://arxiv.org/abs/2003.12356)
+**[BC4]** **S. Gumussoy** and W. Michiels, [Tuning an H-Infinity Controller with a Given Order and a Structure for Interconnected Systems with Delays](http://dx.doi.org/10.1007/978-3-319-05576-3_7). Low-Complexity Controllers for Time-Delay Systems, Advances in Delays and Dynamics (edited volume), pp. 95-110, Springer, 2014. <a href="https://arxiv.org/abs/2003.12356"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
-**[BC3]** **S. Gumussoy** and P. Gahinet, [Computer Aided Control System Design for Time Delay Systems using MATLAB](http://dx.doi.org/10.1007/978-3-319-01695-5_19). Delay Systems, Advances in Delays and Dynamics (edited volume), pp. 257-270, Springer, 2013. [arXiv](https://arxiv.org/abs/2003.04677)
+**[BC3]** **S. Gumussoy** and P. Gahinet, [Computer Aided Control System Design for Time Delay Systems using MATLAB](http://dx.doi.org/10.1007/978-3-319-01695-5_19). Delay Systems, Advances in Delays and Dynamics (edited volume), pp. 257-270, Springer, 2013. <a href="https://arxiv.org/abs/2003.04677"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
-**[BC2]** W. Michiels and **S. Gumussoy**, [Eigenvalue based algorithms and software for the design of fixed-order stabilizing controllers for interconnected systems with time-delays](http://dx.doi.org/10.1007/978-3-319-01695-5_18). Delay Systems, Advances in Delays and Dynamics (edited volume), pp. 243-256, Springer, 2013. [arXiv](https://arxiv.org/abs/2003.05496)
+**[BC2]** W. Michiels and **S. Gumussoy**, [Eigenvalue based algorithms and software for the design of fixed-order stabilizing controllers for interconnected systems with time-delays](http://dx.doi.org/10.1007/978-3-319-01695-5_18). Delay Systems, Advances in Delays and Dynamics (edited volume), pp. 243-256, Springer, 2013. <a href="https://arxiv.org/abs/2003.05496"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
-**[BC1]** **S. Gumussoy** and W. Michiels, [Fixed-order H-infinity Optimization of Time-Delay Systems](https://doi.org/10.1007/978-3-642-12598-0_10). Recent Advances in Optimization and its Applications in Engineering (edited volume), pp. 103-112, Springer, 2010. [arXiv](https://arxiv.org/abs/2003.10628)
+**[BC1]** **S. Gumussoy** and W. Michiels, [Fixed-order H-infinity Optimization of Time-Delay Systems](https://doi.org/10.1007/978-3-642-12598-0_10). Recent Advances in Optimization and its Applications in Engineering (edited volume), pp. 103-112, Springer, 2010. <a href="https://arxiv.org/abs/2003.10628"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
 ### Others
 
