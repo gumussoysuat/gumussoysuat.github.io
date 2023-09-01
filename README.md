@@ -46,6 +46,10 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 **[P1]** **S. Gumussoy**, P. J. Mosterman, A. Ozdemir, [Discretization of a model of a system or a portion of the model using system inputs and outputs](https://patents.google.com/patent/US20190026404A1/en). US Patent App., 15/656,560, 2019.
 
 ### Journal Papers
+**[J21]** N. Junnarkar, E. Jensen, X. Wu, **S. Gumussoy** and M. Arcak, Grouping of N − 1 Contingencies for Controller Synthesis: A Study for Power Line Failures. Submitted to IEEE Transactions on Smart Grid, 2023.
+
+**[J20]** E. Jensen, N. Junnarkar, M. Arcak, X. Wu and **S. Gumussoy**, Certifying Stability and Performance of Uncertain Differential-Algebraic Systems: A Dissipativity Framework. Submitted to IEEE Transactions on Control of Network Systems, 2023. <a href="https://arxiv.org/abs/2308.08471"><img src="assets/icon_arxiv.svg" width="40" /></a>
+
 **[J19]** S. An, G. Bhat, **S. Gumussoy** and U. Y. Ogras, [Transfer Learning for Human Activity Recognition using Representational Analysis of Neural Networks](https://doi.org/10.1145/3563948). ACM Transactions on Computing for Healthcare, vol. 4, no. 5, pp. 1-21, 2023. <a href="https://arxiv.org/abs/2012.04479"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
 **[J18]** N. Xue, X. Wu, **S. Gumussoy**, U. Muenz, A. Mesanovic, Z. Dong, G. Bharati, S. Chakraborty, L. Cockcroft  and L. Dangelmaier, [Dynamic Security Optimization for N-1 Secure Operation of Hawai‘i Island System with 100% Inverter-Based Resources](https://doi.org/10.1109/TSG.2021.3135232). IEEE Transactions on Smart Grid, vol. 13, no. 5, pp. 4009-4021, September 2022.
