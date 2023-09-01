@@ -24,7 +24,7 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 
 **@Siemens:** Jointly architected a reinforcement learning toolbox, SCS-Reinforce, inside [Simcenter Studio](https://www.plm.automation.siemens.com/global/en/products/simcenter/simcenter-studio.html) with Siemens DI SW. Working together for the next cool features for our customers. Implemented new algorithms for tuning and calibration of power systems.
 
-**@MathWorks:** Key contributions to [Control System Toolbox](https://www.mathworks.com/products/control.html), [Robust Control Toolbox](https://www.mathworks.com/products/robust.html), [System Identification Toolbox](https://www.mathworks.com/products/sysid.html) and [Reinforcement Learning Toolbox](https://www.mathworks.com/products/reinforcement-learning.html). Some highlights:
+**@MathWorks:** Key contributions to [Reinforcement Learning Toolbox](https://www.mathworks.com/products/reinforcement-learning.html), [Robust Control Toolbox](https://www.mathworks.com/products/robust.html), [System Identification Toolbox](https://www.mathworks.com/products/sysid.html) and [Control System Toolbox](https://www.mathworks.com/products/control.html). Some highlights:
 <ul>
   <li><b>Toolbox:</b> Lead engineer and architect in <a href="https://www.mathworks.com/products/reinforcement-learning.html">Reinforcement Learning Toolbox</a> including software architecture design, algorithm implementation, and team supervision.</li>
   <li><b>Algorithms:</b> Designed and implemented essential algorithms for MATLAB.</li>
