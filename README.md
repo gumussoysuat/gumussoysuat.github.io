@@ -55,9 +55,6 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 
 **[P1]** **S. Gumussoy**, P. J. Mosterman, A. Ozdemir, [Discretization of a model of a system or a portion of the model using system inputs and outputs](https://patents.google.com/patent/US20190026404A1/en). U.S. Patent, US10817629B2, 2020.
 
-Fradkin, Dmitriy, et al. "System for provably robust interpretable machine learning models." U.S. Patent Application No. 18/041,002.
-
-
 ### Journal Papers
 **[J21]** N. Junnarkar, E. Jensen, X. Wu, **S. Gumussoy** and M. Arcak, Grouping of N − 1 Contingencies for Controller Synthesis: A Study for Power Line Failures. Submitted to IEEE Transactions on Smart Grid, 2023.
 
