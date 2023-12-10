@@ -53,7 +53,7 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 
 **[P2]** **S. Gumussoy**, X. Wu, U. Muenz, [Power system model calibration using measurement data](https://patents.google.com/patent/WO2022231648A1/en). International Patent Application, WO2022231648A1, 2022.
 
-**[P1]** **S. Gumussoy**, P. J. Mosterman, A. Ozdemir, [Discretization of a model of a system or a portion of the model using system inputs and outputs](https://patents.google.com/patent/US20190026404A1/en). U.S. Patent, US10817629B2, 2020.
+**[P1]** **S. Gumussoy**, P. J. Mosterman, A. Ozdemir, [Discretization of a model of a system or a portion of the model using system inputs and outputs](https://patents.google.com/patent/US20190026404A1/en). U.S. Patent, US20190026404A1, 2020.
 
 ### Journal Papers
 **[J21]** N. Junnarkar, E. Jensen, X. Wu, **S. Gumussoy** and M. Arcak, Grouping of N − 1 Contingencies for Controller Synthesis: A Study for Power Line Failures. Submitted to IEEE Transactions on Smart Grid, 2023.
