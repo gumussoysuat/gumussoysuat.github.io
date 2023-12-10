@@ -43,13 +43,13 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 ## Publications <img src="assets/icon_publications.png" width="26" />
 
 ### Patents
-**[P6]** Y. Wang, U. Muenz, **S. Gumussoy**, [Multi-asset placement and sizing for robust operation of distribution systems](https://patents.google.com/patent/WO2023033783A1/en). International Patent Publication, WO2023027721A1, 2023.
+**[P6]** Y. Wang, U. Muenz, **S. Gumussoy**, [Multi-asset placement and sizing for robust operation of distribution systems](https://patents.google.com/patent/WO2023027721A1/en). International Patent Application, WO2023027721A1, 2023.
 
-**[P5]** X. Wu, U. Muenz, **S. Gumussoy**, [Determining location and sizing of a new power unit within a current system architecture of a power system or a grid](https://patents.google.com/patent/WO2023033783A1/en). International Patent Publication, WO2023033783A1, 2023.
+**[P5]** X. Wu, U. Muenz, **S. Gumussoy**, [Determining location and sizing of a new power unit within a current system architecture of a power system or a grid](https://patents.google.com/patent/WO2023033783A1/en). International Patent Application, WO2023033783A1, 2023.
 
-**[P4]** D. Hartmann, A. Pandey, **S. Gumussoy**, U. Muenz, [Explicit rule-based control of complex dynamical systems](https://patents.google.com/patent/WO2023022712A1/en). International Patent Publication, WO2023022712A1, 2023.
+**[P4]** D. Hartmann, A. Pandey, **S. Gumussoy**, U. Muenz, [Explicit rule-based control of complex dynamical systems](https://patents.google.com/patent/WO2023022712A1/en). International Patent Application, WO2023022712A1, 2023.
 
-**[P3]** X. Wu, U. Muenz, **S. Gumussoy**, R. Ganjavi, [Inverter-based resource (ibr) optimized fault-level adjustment based on fault location](https://patents.google.com/patent/WO2023027986A1/en). International Patent Publication, WO2023027986A1, 2023.
+**[P3]** X. Wu, U. Muenz, **S. Gumussoy**, R. Ganjavi, [Inverter-based resource (ibr) optimized fault-level adjustment based on fault location](https://patents.google.com/patent/WO2023027986A1/en). International Patent Application, WO2023027986A1, 2023.
 
 **[P2]** **S. Gumussoy**, X. Wu, U. Muenz, [Power system model calibration using measurement data](https://patents.google.com/patent/WO2022231648A1/en). International Patent Application, WO2022231648A1, 2022.
 
