@@ -43,7 +43,20 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 ## Publications <img src="assets/icon_publications.png" width="26" />
 
 ### Patents
-**[P1]** **S. Gumussoy**, P. J. Mosterman, A. Ozdemir, [Discretization of a model of a system or a portion of the model using system inputs and outputs](https://patents.google.com/patent/US20190026404A1/en). US Patent App., 15/656,560, 2019.
+**[P6]** Y. Wang, U. Muenz, **S. Gumussoy**, [Multi-asset placement and sizing for robust operation of distribution systems](https://patents.google.com/patent/WO2023033783A1/en). International Patent Publication, WO2023027721A1, 2023.
+
+**[P5]** X. Wu, U. Muenz, **S. Gumussoy**, [Determining location and sizing of a new power unit within a current system architecture of a power system or a grid](https://patents.google.com/patent/WO2023033783A1/en). International Patent Publication, WO2023033783A1, 2023.
+
+**[P4]** D. Hartmann, A. Pandey, **S. Gumussoy**, U. Muenz, [Explicit rule-based control of complex dynamical systems](https://patents.google.com/patent/US20190026404A1/en). International Patent Publication, WO2023022712A1, 2023.
+
+**[P3]** X. Wu, U. Muenz, **S. Gumussoy**, R. Ganjavi, [Inverter-based resource (ibr) optimized fault-level adjustment based on fault location](https://patents.google.com/patent/WO2023027986A1/en). International Patent Publication, WO2023027986A1, 2023.
+
+**[P2]** **S. Gumussoy**, X. Wu, U. Muenz, [Power system model calibration using measurement data](https://patents.google.com/patent/WO2022231648A1/en). International Patent Application, WO2022231648A1, 2022.
+
+**[P1]** **S. Gumussoy**, P. J. Mosterman, A. Ozdemir, [Discretization of a model of a system or a portion of the model using system inputs and outputs](https://patents.google.com/patent/US20190026404A1/en). U.S. Patent, US10817629B2, 2020.
+
+Fradkin, Dmitriy, et al. "System for provably robust interpretable machine learning models." U.S. Patent Application No. 18/041,002.
+
 
 ### Journal Papers
 **[J21]** N. Junnarkar, E. Jensen, X. Wu, **S. Gumussoy** and M. Arcak, Grouping of N − 1 Contingencies for Controller Synthesis: A Study for Power Line Failures. Submitted to IEEE Transactions on Smart Grid, 2023.
