@@ -57,11 +57,11 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 
 ### Journal Papers
 
-**[J22]** T. Basaklar, A. A. Goksoy, A. Krishnakumar, **S. Gumussoy**, U. Y. Ogras, [DTRL: Decision Tree-based Multi-Objective Reinforcement Learning for Runtime Task Scheduling in Domain-Specific System-on-Chips](https://dl.acm.org/doi/abs/10.1145/3609108). ACM Transactions on Embedded Computing Systems, no. 113, pp. 1–22, 2023.
+**[J22]** N. Junnarkar, E. Jensen, X. Wu, **S. Gumussoy** and M. Arcak, Grouping of N − 1 Contingencies for Controller Synthesis: A Study for Power Line Failures. Submitted to IEEE Transactions on Smart Grid, 2023.
 
-**[J21]** N. Junnarkar, E. Jensen, X. Wu, **S. Gumussoy** and M. Arcak, Grouping of N − 1 Contingencies for Controller Synthesis: A Study for Power Line Failures. Submitted to IEEE Transactions on Smart Grid, 2023.
+**[J21]** E. Jensen, N. Junnarkar, M. Arcak, X. Wu and **S. Gumussoy**, Certifying Stability and Performance of Uncertain Differential-Algebraic Systems: A Dissipativity Framework. Submitted to IEEE Transactions on Control of Network Systems, 2023. <a href="https://arxiv.org/abs/2308.08471"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
-**[J20]** E. Jensen, N. Junnarkar, M. Arcak, X. Wu and **S. Gumussoy**, Certifying Stability and Performance of Uncertain Differential-Algebraic Systems: A Dissipativity Framework. Submitted to IEEE Transactions on Control of Network Systems, 2023. <a href="https://arxiv.org/abs/2308.08471"><img src="assets/icon_arxiv.svg" width="40" /></a>
+**[J20]** T. Basaklar, A. A. Goksoy, A. Krishnakumar, **S. Gumussoy**, U. Y. Ogras, [DTRL: Decision Tree-based Multi-Objective Reinforcement Learning for Runtime Task Scheduling in Domain-Specific System-on-Chips](https://dl.acm.org/doi/abs/10.1145/3609108). ACM Transactions on Embedded Computing Systems, no. 113, pp. 1–22, 2023.
 
 **[J19]** S. An, G. Bhat, **S. Gumussoy** and U. Y. Ogras, [Transfer Learning for Human Activity Recognition using Representational Analysis of Neural Networks](https://doi.org/10.1145/3563948). ACM Transactions on Computing for Healthcare, vol. 4, no. 5, pp. 1-21, 2023. <a href="https://arxiv.org/abs/2012.04479"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
