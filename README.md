@@ -117,9 +117,11 @@ H. Ozbay, **S. Gumussoy**, K. Kashima and Y. Yamamoto, [Frequency Domain Techniq
 
 ### Conference Proceedings and Abstracts
 
+<a id="MyHeading"></a>My Heading ###
+
 **[C36]** V. R. Baddam, **S. Gumussoy**, H. Eldardiry and A. Boker, Searching for Sparse Controllers with a Budget: A Bottom-Up Approach. Accepted to IEEE American Control Conference, 2024.
 
-**[C35]** T. Basaklar, **S. Gumussoy** and U. Y, Ogras, [PD-MORL: Preference-Driven Multi-Objective Reinforcement Lesarning Algorithm](https://openreview.net/forum?id=zS9sRyaPFlJ). NeurIPS Deep RL Workshop. 2022. 11th International Conference on Learning Representations (ICLR) Design, 2023. <a href="https://arxiv.org/abs/2208.07914"><img src="assets/icon_arxiv.svg" width="40" /></a>
+**[C35]** T. Basaklar, **S. Gumussoy** and U. Y, Ogras, <a id="C35"></a>[PD-MORL: Preference-Driven Multi-Objective Reinforcement Lesarning Algorithm](https://openreview.net/forum?id=zS9sRyaPFlJ). NeurIPS Deep RL Workshop. 2022. 11th International Conference on Learning Representations (ICLR) Design, 2023. <a href="https://arxiv.org/abs/2208.07914"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
 **[C34]** T. Basaklar, Y. Tuncel, **S. Gumussoy** and U. Y, Ogras, [GEM-RL: Generalized Energy Management of Wearable Devices using Reinforcement Learning](https://doi.org/10.23919/DATE56975.2023.10137228). Design, Automation and Test in Europe (DATE), April 2023.
 
