@@ -57,9 +57,9 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 
 ### Journal Papers
 
-**[J22]** N. Junnarkar, E. Jensen, X. Wu, **S. Gumussoy** and M. Arcak, Grouping of N − 1 Contingencies for Controller Synthesis: A Study for Power Line Failures. Submitted to IEEE Transactions on Smart Grid, 2023.
+**[J22]** N. Junnarkar, E. Jensen, X. Wu, **S. Gumussoy** and M. Arcak, Grouping of N − 1 Contingencies for Controller Synthesis: A Study for Power Line Failures. Submitted to IEEE Transactions on Smart Grid, 2024.
 
-**[J21]** E. Jensen, N. Junnarkar, M. Arcak, X. Wu and **S. Gumussoy**, Certifying Stability and Performance of Uncertain Differential-Algebraic Systems: A Dissipativity Framework. Submitted to IEEE Transactions on Control of Network Systems, 2023. <a href="https://arxiv.org/abs/2308.08471"><img src="assets/icon_arxiv.svg" width="40" /></a>
+**[J21]** E. Jensen, N. Junnarkar, M. Arcak, X. Wu and **S. Gumussoy**, Certifying Stability and Performance of Uncertain Differential-Algebraic Systems: A Dissipativity Framework. Submitted to IEEE Transactions on Control of Network Systems, 2024. <a href="https://arxiv.org/abs/2308.08471"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
 **[J20]** T. Basaklar, A. A. Goksoy, A. Krishnakumar, **S. Gumussoy**, U. Y. Ogras, [DTRL: Decision Tree-based Multi-Objective Reinforcement Learning for Runtime Task Scheduling in Domain-Specific System-on-Chips](https://dl.acm.org/doi/abs/10.1145/3609108). ACM Transactions on Embedded Computing Systems, no. 113, pp. 1–22, 2023.
 
@@ -102,6 +102,8 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 **[J1]** **S. Gumussoy** and H. Ozbay, [On the Mixed Sensitivity Minimization for Systems with Infinitely Many Unstable Modes](http://dx.doi.org/10.1016/j.sysconle.2004.04.007). Systems and Control Letters, vol. 53, no. 3-4, pp. 211-216, 2004. <a href="https://arxiv.org/abs/2003.05773"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
 ### Conference Proceedings and Abstracts
+
+**[C36]** V. R. Baddam, **S. Gumussoy**, H. Eldardiry and A. Boker, Searching for Sparse Controllers with a Budget: A Bottom-Up Approach. Accepted to IEEE American Control Conference, 2024.
 
 **[C35]** T. Basaklar, **S. Gumussoy** and U. Y, Ogras, [PD-MORL: Preference-Driven Multi-Objective Reinforcement Lesarning Algorithm](https://openreview.net/forum?id=zS9sRyaPFlJ). NeurIPS Deep RL Workshop. 2022. 11th International Conference on Learning Representations (ICLR) Design, 2023. <a href="https://arxiv.org/abs/2208.07914"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
