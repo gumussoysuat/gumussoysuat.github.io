@@ -57,7 +57,7 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 
 ### Book
 
-H. Ozbay, **S. Gumussoy**, K. Kashima and Y. Yamamoto, [Frequency Domain Techniques for H-Infinity Control of Distributed Parameter Systems](https://my.siam.org/Store/Product/viewproduct/?ProductId=30155563). Advances in Design and Control, SIAM, 2018.
+H. Ozbay, **S. Gumussoy**, K. Kashima and Y. Yamamoto, [Frequency Domain Techniques for H-Infinity Control of Distributed Parameter Systems](https://doi.org/10.1137/1.9781611975406). Advances in Design and Control, SIAM, 2018.
 
 ### Book Chapters
 
