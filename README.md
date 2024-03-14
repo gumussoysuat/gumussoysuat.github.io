@@ -29,9 +29,9 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
   <li><b>Toolbox:</b> Lead engineer and architect in <a href="https://www.mathworks.com/products/reinforcement-learning.html">Reinforcement Learning Toolbox</a> including software architecture design, algorithm implementation, and team supervision.</li>
   <li><b>Algorithms:</b> Designed and implemented essential algorithms for MATLAB.</li>
     <ul>    
-      <li>Designed more accurate <a href="https://www.mathworks.com/help/control/ref/c2d.html">continuous to discrete conversion algorithm</a> in c2d, least squares option.</li>
-      <li>Authored faster and more accurate <a href="https://www.mathworks.com/help/releases/R2016b/ident/ref/tfest.html">transfer function estimation algorithm</a> from frequency-domain data in tfest.</li>
-      <li>Implemented the <a href="https://www.mathworks.com/help/releases/R2016a/control/ref/balred.html">limited balanced truncation algorithm</a> to reduce model according to energies within time- and frequency-domain intervals.</li>
+      <li>Designed more accurate <a href="https://www.mathworks.com/help/control/ref/dynamicsystem.c2d.html">continuous to discrete conversion algorithm</a> in c2d, least squares option.</li>
+      <li>Authored faster and more accurate <a href="https://www.mathworks.com/help/ident/ref/tfest.html">transfer function estimation algorithm</a> from frequency-domain data in tfest.</li>
+      <li>Implemented the <a href="https://www.mathworks.com/help/control/ref/dynamicsystem.balred.html">limited balanced truncation algorithm</a> to reduce model according to energies within time- and frequency-domain intervals.</li>
     </ul>
   <li><b>App Tools:</b> Authored the <a href="http://www.mathworks.com/help/control/ref/modelreducer-app.html">Model Reducer</a> for model reduction (<a href="http://www.mathworks.com/videos/model-order-reduction-with-the-model-reducer-app-118008.html">example</a>) and <a href="http://www.mathworks.com/help/slcontrol/tuning-with-control-system-tuner.html">Control System Tuner</a> for fixed-order distributed controller design (<a href="https://www.youtube.com/watch?v=stIS32tsbPI">example 1</a>, <a href="http://blogs.mathworks.com/seth/2014/04/03/control-system-tuning-without-guess-or-stress/">example 2</a>).</li>
 </ul>
