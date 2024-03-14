@@ -49,11 +49,25 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 
 **[P4]** D. Hartmann, A. Pandey, **S. Gumussoy**, U. Muenz, [Explicit rule-based control of complex dynamical systems](https://patents.google.com/patent/WO2023022712A1/en). International Patent Application, WO2023022712A1, 2023.
 
-**[P3]** X. Wu, U. Muenz, **S. Gumussoy**, R. Ganjavi, [Inverter-based resource (ibr) optimized fault-level adjustment based on fault location](https://patents.google.com/patent/WO2023027986A1/en). International Patent Application, WO2023027986A1, 2023.
+**[P3]** X. Wu, U. Muenz, **S. Gumussoy**, R. Ganjavi, [Inverter-based resource (IBR) optimized fault-level adjustment based on fault location](https://patents.google.com/patent/WO2023027986A1/en). International Patent Application, WO2023027986A1, 2023.
 
 **[P2]** **S. Gumussoy**, X. Wu, U. Muenz, [Power system model calibration using measurement data](https://patents.google.com/patent/WO2022231648A1/en). International Patent Application, WO2022231648A1, 2022.
 
 **[P1]** **S. Gumussoy**, P. J. Mosterman, A. Ozdemir, [Discretization of a model of a system or a portion of the model using system inputs and outputs](https://patents.google.com/patent/US20190026404A1/en). U.S. Patent, US20190026404A1, 2020.
+
+### Book
+
+H. Ozbay, **S. Gumussoy**, K. Kashima and Y. Yamamoto, [Frequency Domain Techniques for H-Infinity Control of Distributed Parameter Systems](https://my.siam.org/Store/Product/viewproduct/?ProductId=30155563). Advances in Design and Control, SIAM, 2018.
+
+### Book Chapters
+
+**[BC4]** **S. Gumussoy** and W. Michiels, [Tuning an H-Infinity Controller with a Given Order and a Structure for Interconnected Systems with Delays](http://dx.doi.org/10.1007/978-3-319-05576-3_7). Low-Complexity Controllers for Time-Delay Systems, Advances in Delays and Dynamics (edited volume), pp. 95-110, Springer, 2014. <a href="https://arxiv.org/abs/2003.12356"><img src="assets/icon_arxiv.svg" width="40" /></a>
+
+**[BC3]** **S. Gumussoy** and P. Gahinet, [Computer Aided Control System Design for Time Delay Systems using MATLAB](http://dx.doi.org/10.1007/978-3-319-01695-5_19). Delay Systems, Advances in Delays and Dynamics (edited volume), pp. 257-270, Springer, 2013. <a href="https://arxiv.org/abs/2003.04677"><img src="assets/icon_arxiv.svg" width="40" /></a>
+
+**[BC2]** W. Michiels and **S. Gumussoy**, [Eigenvalue based algorithms and software for the design of fixed-order stabilizing controllers for interconnected systems with time-delays](http://dx.doi.org/10.1007/978-3-319-01695-5_18). Delay Systems, Advances in Delays and Dynamics (edited volume), pp. 243-256, Springer, 2013. <a href="https://arxiv.org/abs/2003.05496"><img src="assets/icon_arxiv.svg" width="40" /></a>
+
+**[BC1]** **S. Gumussoy** and W. Michiels, [Fixed-order H-infinity Optimization of Time-Delay Systems](https://doi.org/10.1007/978-3-642-12598-0_10). Recent Advances in Optimization and its Applications in Engineering (edited volume), pp. 103-112, Springer, 2010. <a href="https://arxiv.org/abs/2003.10628"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
 ### Journal Papers
 
@@ -174,20 +188,6 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 **[C2]** M. Saglam, S. Ezercan, **S. Gumussoy** and H. Ozbay, [Controller Tuning for Active Queue Management using a Parameter Space Method](https://arxiv.org/abs/2003.01076). 16th International Symposium on Mathematical Theory of Network and Systems, 2004.
 
 **[C1]** **S. Gumussoy** and H. Ozbay, [Control of Systems with Infinitely Many Unstable Modes and Strong Stabilizing Controllers Achieving a Desired Sensitivity](https://arxiv.org/abs/2003.01003). 15th International Symposium on Mathematical Theory of Network and Systems, pp. 1-10, 2002.
-
-### Book
-
-H. Ozbay, **S. Gumussoy**, K. Kashima and Y. Yamamoto, [Frequency Domain Techniques for H-Infinity Control of Distributed Parameter Systems](https://my.siam.org/Store/Product/viewproduct/?ProductId=30155563). Advances in Design and Control, SIAM, 2018.
-
-### Book Chapters
-
-**[BC4]** **S. Gumussoy** and W. Michiels, [Tuning an H-Infinity Controller with a Given Order and a Structure for Interconnected Systems with Delays](http://dx.doi.org/10.1007/978-3-319-05576-3_7). Low-Complexity Controllers for Time-Delay Systems, Advances in Delays and Dynamics (edited volume), pp. 95-110, Springer, 2014. <a href="https://arxiv.org/abs/2003.12356"><img src="assets/icon_arxiv.svg" width="40" /></a>
-
-**[BC3]** **S. Gumussoy** and P. Gahinet, [Computer Aided Control System Design for Time Delay Systems using MATLAB](http://dx.doi.org/10.1007/978-3-319-01695-5_19). Delay Systems, Advances in Delays and Dynamics (edited volume), pp. 257-270, Springer, 2013. <a href="https://arxiv.org/abs/2003.04677"><img src="assets/icon_arxiv.svg" width="40" /></a>
-
-**[BC2]** W. Michiels and **S. Gumussoy**, [Eigenvalue based algorithms and software for the design of fixed-order stabilizing controllers for interconnected systems with time-delays](http://dx.doi.org/10.1007/978-3-319-01695-5_18). Delay Systems, Advances in Delays and Dynamics (edited volume), pp. 243-256, Springer, 2013. <a href="https://arxiv.org/abs/2003.05496"><img src="assets/icon_arxiv.svg" width="40" /></a>
-
-**[BC1]** **S. Gumussoy** and W. Michiels, [Fixed-order H-infinity Optimization of Time-Delay Systems](https://doi.org/10.1007/978-3-642-12598-0_10). Recent Advances in Optimization and its Applications in Engineering (edited volume), pp. 103-112, Springer, 2010. <a href="https://arxiv.org/abs/2003.10628"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
 ### Others
 
