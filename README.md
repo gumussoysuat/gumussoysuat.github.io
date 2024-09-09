@@ -43,6 +43,10 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 ## Publications <img src="assets/icon_publications.png" width="26" />
 
 ### Patents
+<a name="P8"></a> **[P8]** X. Wu, M. K. Erdal, **S. Gumussoy**, U. Muenz, [Online calibration of power system model using time series measurement data](https://patents.google.com/patent/WO2024063819A1/en). International Patent Application, WO2024063819A1, 2024.
+
+<a name="P7"></a> **[P7]** **S. Gumussoy**, [Controller with on-demand nonlinearity](https://patents.google.com/patent/WO2024043933A1/en). International Patent Application, WO2024043933A1, 2024.
+
 <a name="P6"></a> **[P6]** Y. Wang, U. Muenz, **S. Gumussoy**, [Multi-asset placement and sizing for robust operation of distribution systems](https://patents.google.com/patent/WO2023027721A1/en). International Patent Application, WO2023027721A1, 2023.
 
 <a name="P5"></a> **[P5]** X. Wu, U. Muenz, **S. Gumussoy**, [Determining location and sizing of a new power unit within a current system architecture of a power system or a grid](https://patents.google.com/patent/WO2023033783A1/en). International Patent Application, WO2023033783A1, 2023.
@@ -71,9 +75,9 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 
 ### Journal Papers
 
-<a name="J22"></a> **[J22]** N. Junnarkar, E. Jensen, X. Wu, **S. Gumussoy** and M. Arcak, Grouping of N − 1 Contingencies for Controller Synthesis: A Study for Power Line Failures. Submitted to IEEE Transactions on Smart Grid, 2024.
+<a name="J22"></a> **[J22]** N. Junnarkar, E. Jensen, X. Wu, **S. Gumussoy** and M. Arcak, Grouping of N − 1 Contingencies for Controller Synthesis: A Study for Power Line Failures. Accepted to IEEE Transactions on Smart Grid, 2024.
 
-<a name="J21"></a> **[J21]** E. Jensen, N. Junnarkar, M. Arcak, X. Wu and **S. Gumussoy**, Certifying Stability and Performance of Uncertain Differential-Algebraic Systems: A Dissipativity Framework. Submitted to IEEE Transactions on Control of Network Systems, 2024. <a href="https://arxiv.org/abs/2308.08471"><img src="assets/icon_arxiv.svg" width="40" /></a>
+<a name="J21"></a> **[J21]** E. Jensen, N. Junnarkar, M. Arcak, X. Wu and **S. Gumussoy**, Certifying Stability and Performance of Uncertain Differential-Algebraic Systems: A Dissipativity Framework. Accepted to IEEE Transactions on Control of Network Systems, 2024. <a href="https://arxiv.org/abs/2308.08471"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
 <a name="J20"></a> **[J20]** T. Basaklar, A. A. Goksoy, A. Krishnakumar, **S. Gumussoy**, U. Y. Ogras, [DTRL: Decision Tree-based Multi-Objective Reinforcement Learning for Runtime Task Scheduling in Domain-Specific System-on-Chips](https://dl.acm.org/doi/abs/10.1145/3609108). ACM Transactions on Embedded Computing Systems, no. 113, pp. 1–22, 2023.
 
@@ -117,7 +121,9 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 
 ### Conference Proceedings and Abstracts
 
-<a name="C36"></a> **[C36]** V. R. Baddam, **S. Gumussoy**, H. Eldardiry and A. Boker, Searching for Sparse Controllers with a Budget: A Bottom-Up Approach. Accepted to IEEE American Control Conference, 2024.
+<a name="C37"></a> **[C37]** C. Bonnet, H. Ozbay, M. O. Yegin, **S. Gumussoy**, Implementation of Stabilizing Controllers for Retarded Delay Systems. IFAC Workshop on Time Delay Systems, 2024.
+
+<a name="C36"></a> **[C36]** V. R. Baddam, **S. Gumussoy**, H. Eldardiry and A. Boker, Searching for Sparse Controllers with a Budget: A Bottom-Up Approach. IEEE American Control Conference, 2024.
 
 <a name="C35"></a> **[C35]** T. Basaklar, **S. Gumussoy** and U. Y, Ogras, [PD-MORL: Preference-Driven Multi-Objective Reinforcement Learning Algorithm](https://openreview.net/forum?id=zS9sRyaPFlJ). NeurIPS Deep RL Workshop. 2022. 11th International Conference on Learning Representations (ICLR) Design, 2023. <a href="https://arxiv.org/abs/2208.07914"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
