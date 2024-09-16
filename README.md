@@ -109,7 +109,9 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 
 ### Conference Proceedings and Abstracts
 
-<a name="C37"></a> **[C37]** C. Bonnet, H. Ozbay, M. O. Yegin, **S. Gumussoy**, Implementation of Stabilizing Controllers for Retarded Delay Systems. IFAC Workshop on Time Delay Systems, 2024.
+<a name="C38"></a> **[C38]** V. Reddy, **S. Gumussoy**, H. Eldardiry and A. Boker, Bottom-Up Network: An Efficient Learning Algorithm for Multi-Robot Systems. IEEE International Conference on Robotics and Automation (ICRA), 2025.
+
+<a name="C37"></a> **[C37]** C. Bonnet, H. Ozbay, M. O. Yegin and **S. Gumussoy**, Implementation of Stabilizing Controllers for Retarded Delay Systems. IFAC Workshop on Time Delay Systems, 2024.
 
 <a name="C36"></a> **[C36]** V. R. Baddam, **S. Gumussoy**, H. Eldardiry and A. Boker, Searching for Sparse Controllers with a Budget: A Bottom-Up Approach. IEEE American Control Conference, 2024. <a href="https://www.researchgate.net/publication/382298510_Searching_for_Sparse_Controllers_with_a_Budget_A_Bottom-Up_Approach"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
