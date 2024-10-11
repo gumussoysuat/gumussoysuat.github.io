@@ -43,6 +43,8 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 ## Publications <img src="assets/icon_publications.png" width="26" />
 
 ### Patents
+<a name="P9"></a> **[P9]** **S. Gumussoy**, J.Vanhuyse, M. Nicolai, S. Evmorfos, Fast policy training across multiple architectures using reinforcement learning for generative engineering. International Patent Application, 2024.
+
 <a name="P8"></a> **[P8]** X. Wu, M. K. Erdal, **S. Gumussoy**, U. Muenz, [Online calibration of power system model using time series measurement data](https://patents.google.com/patent/WO2024063819A1/en). International Patent Application, WO2024063819A1, 2024.
 
 <a name="P7"></a> **[P7]** **S. Gumussoy**, [Controller with on-demand nonlinearity](https://patents.google.com/patent/WO2024043933A1/en). International Patent Application, WO2024043933A1, 2024.
