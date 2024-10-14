@@ -111,7 +111,7 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 
 ### Conference Proceedings and Abstracts
 
-<a name="C38"></a> **[C38]** V. Reddy, **S. Gumussoy**, H. Eldardiry and A. Boker, Bottom-Up Network: An Efficient Learning Algorithm for Multi-Robot Systems. IEEE International Conference on Robotics and Automation (ICRA), 2025.
+<a name="C38"></a> **[C38]** V. Reddy, **S. Gumussoy**, H. Eldardiry and A. Boker, Learning Emergence of Interaction Patterns across Independent RL Agents in Multi-Agent Environments. IEEE International Conference on Robotics and Automation (ICRA), 2025. <a href="https://arxiv.org/abs/2410.02516"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
 <a name="C37"></a> **[C37]** C. Bonnet, H. Ozbay, M. O. Yegin and **S. Gumussoy**, Implementation of Stabilizing Controllers for Retarded Delay Systems. IFAC Workshop on Time Delay Systems, 2024.
 
