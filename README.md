@@ -13,7 +13,7 @@
   </td>
   
   <td>
-<p>Dr. Gumussoy is a senior key expert on Industrial Closed-Loop AI at <a href="https://www.siemens.com/us/en/company/about/siemens-in-the-usa/new-jersey.html">Siemens Technology</a>. His research interests are <em>reinforcement learning, data-driven control, digital twin for control and their software implementations.</em></p>
+<p>Dr. Gumussoy is a senior key expert on Closed-Loop AI at <a href="https://www.siemens.com/us/en/company/about/siemens-in-the-usa/new-jersey.html">Siemens Technology</a>. His research interests are <em>digital twin modeling, AI-driven control and design and their applications to control of power systems, smart manufacturing, and edge platforms.</em></p>
 
 He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifac-control.org/2/2">IFAC Technical Committee on Linear Control Systems</a> since 2022. He served as an Associate Editor in <a href="http://ieeecss.org/publication/transactions-control-systems-technology">IEEE Transactions on Control Systems Technology</a> (2018-2022) and <a href="http://ieeecss.org/conferences/conference-editorial-board">IEEE Conference Editorial Board</a> (2018-2022).
 </td>
