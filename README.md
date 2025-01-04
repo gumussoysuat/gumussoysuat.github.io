@@ -207,6 +207,8 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 
 <a name="Thesis"></a> **[Thesis]** **S. Gumussoy**, [Optimal H-infinity Controller Design and Strong Stabilization for Time-Delay and MIMO Systems](http://rave.ohiolink.edu/etdc/view?acc_num=osu1092850391). Ph.D. Thesis, Ohio State University, Electrical Engineering, 2004.
 
+<a name="TechTalk"></a> **[Tech Talk]** K. Fetzer and **S. Gumussoy**, Implementation of digital twin calibration and AI-driven control on Yahboom tank robot for Siemens' smart manufacturing use case. Future of Automation Tech Talk Series, Siemens Technology, Princeton, 2023.
+
 <a name="Webinar"></a> **[Webinar]** **S. Gumussoy**, [Time-Delay Systems: Analysis and Design with MATLAB and Simulink](http://www.mathworks.com/videos/time-delay-systems-analysis-and-design-with-matlab-and-simulink-81948.html). MathWorks, December 4, 2012.
 
 <a name="Blog"></a> **[Blog]** P. Gahinet, **S. Gumussoy**, E. Korkut and M. Cuenant, [Control System Tuning without Guess or Stress](http://blogs.mathworks.com/seth/2014/04/03/control-system-tuning-without-guess-or-stress/). MathWorks, April 3, 2014.
