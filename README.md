@@ -65,7 +65,7 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 
 <a name="J23"></a> **[J23]** J. Vanhuyse, C. Bertheaume, **S. Gumussoy** and M. Nicolai, Conceptual closed-loop design of automative cooling systems leveraging Reinforcement Learning. Accepted to Forschung im Ingenieurwesen, Springer, 2025.
 
-<a name="J22"></a> **[J22]** N. Junnarkar, E. Jensen, X. Wu, **S. Gumussoy** and M. Arcak, [Grouping of N − 1 Contingencies for Controller Synthesis: A Study for Power Line Failures](https://doi.org/10.1109/TPWRS.2024.3393866). IEEE Transactions on Smart Grid, 2024. <a href="https://arxiv.org/html/2404.07415v1"><img src="assets/icon_arxiv.svg" width="40" /></a>
+<a name="J22"></a> **[J22]** N. Junnarkar, E. Jensen, X. Wu, **S. Gumussoy** and M. Arcak, [Grouping of N − 1 Contingencies for Controller Synthesis: A Study for Power Line Failures](https://doi.org/10.1109/TPWRS.2024.3393866). IEEE Transactions on Smart Grid, vol. 40, no. 1, pp. 585-596, 2025. <a href="https://arxiv.org/html/2404.07415v1"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
 <a name="J21"></a> **[J21]** E. Jensen, N. Junnarkar, M. Arcak, X. Wu and **S. Gumussoy**, [Certifying Stability and Performance of Uncertain Differential-Algebraic Systems: A Dissipativity Framework](https://doi.org/10.1109/TCNS.2024.3510585). IEEE Transactions on Control of Network Systems, vol. 40, no. 1, pp. 585-596, 2024. <a href="https://arxiv.org/abs/2308.08471"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
