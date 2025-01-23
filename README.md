@@ -111,7 +111,7 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 
 ### Conference Proceedings and Abstracts
 
-<a name="C39"></a> **[C39]** S. Bhela, **S. Gumussoy**, D. J. Kelly, M. J. Reno, A. Banaie, and U. Muenz, Co-optimization of Inverter Controls and Line Protection Functions for Improved Protection Reliability and System Stability. IEEE Power & Energy Society General Meeting (PESGM), 2025.
+<a name="C39"></a> **[C39]** S. Bhela, **S. Gumussoy**, D. J. Kelly, M. J. Reno, A. Banaie, and U. Muenz, Co-optimization of Inverter Controls and Line Protection Functions for Improved Protection Reliability and System Stability. Accepted to IEEE Power & Energy Society General Meeting (PESGM), 2025.
 
 <a name="C38"></a> **[C38]** V. Reddy, **S. Gumussoy**, H. Eldardiry and A. Boker, Learning Emergence of Interaction Patterns across Independent RL Agents in Multi-Agent Environments. IEEE International Conference on Robotics and Automation (ICRA), 2025. <a href="https://arxiv.org/abs/2410.02516"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
