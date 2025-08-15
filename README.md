@@ -63,6 +63,8 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 
 ### Journal Papers
 
+<a name="J24"></a> **[J24]** V. Reddy, **S. Gumussoy**, A. Boker and H. Eldardiry, [A bottom-up approach for searching for sparse controllers with a budget](https://doi.org/10.1016/j.ifacsc.2025.100308). IFAC Journal of Systems and Control, vol. 32, 2025.
+
 <a name="J23"></a> **[J23]** J. Vanhuyse, C. Bertheaume, **S. Gumussoy** and M. Nicolai, [Conceptual closed-loop design of automative cooling systems leveraging Reinforcement Learning](https://doi.org/10.1007/s10010-025-00814-1). Forschung im Ingenieurwesen, vol. 89, no. 38, 2025.
 
 <a name="J22"></a> **[J22]** N. Junnarkar, E. Jensen, X. Wu, **S. Gumussoy** and M. Arcak, [Grouping of N − 1 Contingencies for Controller Synthesis: A Study for Power Line Failures](https://doi.org/10.1109/TPWRS.2024.3393866). IEEE Transactions on Power Systems, vol. 40, no. 1, pp. 585-596, 2025. <a href="https://arxiv.org/html/2404.07415v1"><img src="assets/icon_arxiv.svg" width="40" /></a>
@@ -115,7 +117,7 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 
 <a name="C37"></a> **[C37]** C. Bonnet, H. Ozbay, M. O. Yegin and **S. Gumussoy**, [Implementation of Stabilizing Controllers for Retarded Delay Systems](https://www.sciencedirect.com/science/article/pii/S2405896324020937/pdf?md5=7ed1866147e66c93614c5de51e70fa62&pid=1-s2.0-S2405896324020937-main.pdf). IFAC Workshop on Time Delay Systems, 2024.
 
-<a name="C36"></a> **[C36]** V. R. Baddam, **S. Gumussoy**, H. Eldardiry and A. Boker, Searching for Sparse Controllers with a Budget: A Bottom-Up Approach. IEEE American Control Conference, 2024. <a href="https://www.researchgate.net/publication/382298510_Searching_for_Sparse_Controllers_with_a_Budget_A_Bottom-Up_Approach"><img src="assets/icon_arxiv.svg" width="40" /></a>
+<a name="C36"></a> **[C36]** V. R. Baddam, **S. Gumussoy**, H. Eldardiry and A. Boker, [Searching for Sparse Controllers with a Budget: A Bottom-Up Approach](https://doi.org/10.23919/ACC60939.2024.10644330). IEEE American Control Conference, 2024. <a href="https://www.researchgate.net/publication/382298510_Searching_for_Sparse_Controllers_with_a_Budget_A_Bottom-Up_Approach"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
 <a name="C35"></a> **[C35]** T. Basaklar, **S. Gumussoy** and U. Y, Ogras, [PD-MORL: Preference-Driven Multi-Objective Reinforcement Learning Algorithm](https://openreview.net/forum?id=zS9sRyaPFlJ). NeurIPS Deep RL Workshop. 2022. 11th International Conference on Learning Representations (ICLR) Design, 2023. <a href="https://arxiv.org/abs/2208.07914"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
