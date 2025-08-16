@@ -77,7 +77,7 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 
 <a name="J18"></a> **[J18]** N. Xue, X. Wu, **S. Gumussoy**, U. Muenz, A. Mesanovic, Z. Dong, G. Bharati, S. Chakraborty, L. Cockcroft  and L. Dangelmaier, [Dynamic Security Optimization for N-1 Secure Operation of Hawai‘i Island System with 100% Inverter-Based Resources](https://doi.org/10.1109/TSG.2021.3135232). IEEE Transactions on Smart Grid, vol. 13, no. 5, pp. 4009-4021, September 2022.
 
-<a name="J17"></a> **[J17]** G. Bhat, **S. Gumussoy** and U. Y. Ogras, [Analysis and Control of Power-Temperature Dynamics in Heterogeneous Multiprocessors](https://doi.org/10.1109/TCST.2020.2974421). IEEE IEEE Transactions on Control Systems Technology, vol. 29, no. 1, pp. 329-341, 2020. <a href="https://arxiv.org/abs/2003.11081"><img src="assets/icon_arxiv.svg" width="40" /></a>
+<a name="J17"></a> **[J17]** G. Bhat, **S. Gumussoy** and U. Y. Ogras, [Analysis and Control of Power-Temperature Dynamics in Heterogeneous Multiprocessors](https://doi.org/10.1109/TCST.2020.2974421). IEEE Transactions on Control Systems Technology, vol. 29, no. 1, pp. 329-341, 2020. <a href="https://arxiv.org/abs/2003.11081"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
 <a name="J16"></a> **[J16]** **S. Gumussoy** and M. Abu-Khalaf, [Analytic Solution of a Delay differential Equation Arising in Cost Functionals for System with Distributed Delays](https://doi.org/10.1109/TAC.2019.2921658). IEEE Transactions on Automatic Control, vol. 64, no. 11, pp. 4833-4840, 2019. <a href="https://arxiv.org/abs/1804.06713"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
