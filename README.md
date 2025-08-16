@@ -65,7 +65,7 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 
 <a name="J24"></a> **[J24]** V. Reddy, **S. Gumussoy**, A. Boker and H. Eldardiry, [A bottom-up approach for searching for sparse controllers with a budget](https://doi.org/10.1016/j.ifacsc.2025.100308). IFAC Journal of Systems and Control, vol. 32, 2025.
 
-<a name="J23"></a> **[J23]** J. Vanhuyse, C. Bertheaume, **S. Gumussoy** and M. Nicolai, [Conceptual closed-loop design of automotive cooling systems leveraging Reinforcement Learning](https://doi.org/10.1007/s10010-025-00814-1). Forschung im Ingenieurwesen, vol. 89, no. 38, 2025.
+<a name="J23"></a> **[J23]** J. Vanhuyse, C. Bertheaume, **S. Gumussoy** and M. Nicolai, [Conceptual closed-loop design of automotive cooling systems leveraging reinforcement learning](https://doi.org/10.1007/s10010-025-00814-1). Forschung im Ingenieurwesen, vol. 89, no. 38, 2025.
 
 <a name="J22"></a> **[J22]** N. Junnarkar, E. Jensen, X. Wu, **S. Gumussoy** and M. Arcak, [Grouping of N − 1 Contingencies for Controller Synthesis: A Study for Power Line Failures](https://doi.org/10.1109/TPWRS.2024.3393866). IEEE Transactions on Power Systems, vol. 40, no. 1, pp. 585-596, 2025. <a href="https://arxiv.org/html/2404.07415v1"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
