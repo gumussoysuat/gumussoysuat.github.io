@@ -79,7 +79,7 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 
 <a name="J17"></a> **[J17]** G. Bhat, **S. Gumussoy** and U. Y. Ogras, [Analysis and Control of Power-Temperature Dynamics in Heterogeneous Multiprocessors](https://doi.org/10.1109/TCST.2020.2974421). Transactions on Control Systems Technology, vol. 29, no. 1, pp. 329-341, 2020. <a href="https://arxiv.org/abs/2003.11081"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
-<a name="J16"></a> **[J16]** **S. Gumussoy** and M. Abu-Khalaf, [Analytic Solution of a Delay differential Equation Arising in Cost Functionals for System with Distributed Delays](https://doi.org/10.1109/TAC.2019.2921658). Transactions on Automatic Control, vol. 64, no. 11, pp. 4833-4840, 2019. <a href="https://arxiv.org/abs/1804.06713"><img src="assets/icon_arxiv.svg" width="40" /></a>
+<a name="J16"></a> **[J16]** **S. Gumussoy** and M. Abu-Khalaf, [Analytic Solution of a Delay differential Equation Arising in Cost Functionals for System with Distributed Delays](https://doi.org/10.1109/TAC.2019.2921658). IEEE Transactions on Automatic Control, vol. 64, no. 11, pp. 4833-4840, 2019. <a href="https://arxiv.org/abs/1804.06713"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
 <a name="J15"></a> **[J15]** U. Gupta, M. Babu, R. Ayoub, M. Kishinevsky, F. Paterna, **S. Gumussoy** and U. Y. Ogras, [An Online Learning Methodology for Performance Modeling of Graphics Processors](https://doi.org/10.1109/TC.2018.2840710). IEEE Transactions on Computers, vol. 67, no. 12, pp. 1677-1691, 2018. <a href="https://arxiv.org/abs/2003.11740"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
