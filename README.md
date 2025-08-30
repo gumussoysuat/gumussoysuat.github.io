@@ -115,7 +115,7 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 
 <a name="C39"></a> **[C39]** S. Bhela, **S. Gumussoy**, D. J. Kelly, M. J. Reno, A. Banaie, and U. Muenz, Co-optimization of Inverter Controls and Line Protection Functions for Improved Protection Reliability and System Stability. IEEE Power & Energy Society General Meeting (PESGM), 2025.
 
-<a name="C38"></a> **[C38]** V. R. Baddam, **S. Gumussoy**, A. Boker, and H. Eldardiry, [Learning Emergence of Interaction Patterns across Independent RL Agents in Multi-Agent Environments]([https://arxiv.org/abs/1802.06831](https://arxiv.org/abs/2410.02516). Arxiv, 2024.
+<a name="C38"></a> **[C38]** V. R. Baddam, **S. Gumussoy**, A. Boker, and H. Eldardiry, [Learning Emergence of Interaction Patterns across Independent RL Agents in Multi-Agent Environments](https://arxiv.org/abs/2410.02516). Arxiv, 2024.
 
 <a name="C37"></a> **[C37]** C. Bonnet, H. Ozbay, M. O. Yegin and **S. Gumussoy**, [Implementation of Stabilizing Controllers for Retarded Delay Systems](https://www.sciencedirect.com/science/article/pii/S2405896324020937/pdf?md5=7ed1866147e66c93614c5de51e70fa62&pid=1-s2.0-S2405896324020937-main.pdf). IFAC Workshop on Time Delay Systems, 2024.
 
