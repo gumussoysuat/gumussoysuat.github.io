@@ -83,7 +83,7 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 
 <a name="J15"></a> **[J15]** U. Gupta, M. Babu, R. Ayoub, M. Kishinevsky, F. Paterna, **S. Gumussoy** and U. Y. Ogras, [An Online Learning Methodology for Performance Modeling of Graphics Processors](https://doi.org/10.1109/TC.2018.2840710). IEEE Transactions on Computers, vol. 67, no. 12, pp. 1677-1691, 2018. <a href="https://arxiv.org/abs/2003.11740"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
-<a name="J14"></a> **[J14]** M. Abu-Khalaf and **S. Gumussoy**, [Comments on: “Lyapunov matrices for a class of time delays systems” by V. L. Kharitonov](https://arxiv.org/abs/1802.06831). Arxiv, 2018.
+<a name="J14"></a> **[J14]** M. Abu-Khalaf and **S. Gumussoy**, [Comments on: “Lyapunov matrices for a class of time delays systems” by V. L. Kharitonov](https://arxiv.org/abs/1802.06831). ArXiv, 2018.
 
 <a name="J13"></a> **[J13]** G. Bhat, **S. Gumussoy** and U. Y. Ogras, [Power-Temperature Stability and Safety Analysis for Multiprocessor Systems](https://doi.org/10.1145/3126567). ACM Transactions on Embedded Computing Systems, vol. 16, no. 5, pp. 145:1-20, 2017. <a href="https://arxiv.org/abs/1806.06180"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
@@ -115,7 +115,7 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 
 <a name="C39"></a> **[C39]** S. Bhela, **S. Gumussoy**, D. J. Kelly, M. J. Reno, A. Banaie, and U. Muenz, Co-optimization of Inverter Controls and Line Protection Functions for Improved Protection Reliability and System Stability. IEEE Power & Energy Society General Meeting (PESGM), 2025.
 
-<a name="C38"></a> **[C38]** V. R. Baddam, **S. Gumussoy**, A. Boker, and H. Eldardiry, [Learning Emergence of Interaction Patterns across Independent RL Agents in Multi-Agent Environments](https://arxiv.org/abs/2410.02516). Arxiv, 2024.
+<a name="C38"></a> **[C38]** V. R. Baddam, **S. Gumussoy**, A. Boker, and H. Eldardiry, [Learning Emergence of Interaction Patterns across Independent RL Agents in Multi-Agent Environments](https://arxiv.org/abs/2410.02516). ArXiv, 2024.
 
 <a name="C37"></a> **[C37]** C. Bonnet, H. Ozbay, M. O. Yegin and **S. Gumussoy**, [Implementation of Stabilizing Controllers for Retarded Delay Systems](https://www.sciencedirect.com/science/article/pii/S2405896324020937/pdf?md5=7ed1866147e66c93614c5de51e70fa62&pid=1-s2.0-S2405896324020937-main.pdf). IFAC Workshop on Time Delay Systems, 2024.
 
