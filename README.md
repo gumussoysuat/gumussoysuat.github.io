@@ -207,11 +207,13 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 
 <a name="J14"></a> **[A1]** M. Abu-Khalaf and **S. Gumussoy**, [Comments on: “Lyapunov matrices for a class of time delays systems” by V. L. Kharitonov](https://arxiv.org/abs/1802.06831). ArXiv, 2018.
 
+### Thesis
+
+<a name="Thesis"></a> **[Thesis]** **S. Gumussoy**, [Optimal H-infinity Controller Design and Strong Stabilization for Time-Delay and MIMO Systems](http://rave.ohiolink.edu/etdc/view?acc_num=osu1092850391). Ph.D. Thesis, Ohio State University, Electrical Engineering, 2004.
+
 ### Others
 
 <a name="T1"></a> **[T1]** K. Fetzer and **S. Gumussoy**, Implementation of digital twin calibration and AI-driven control on Yahboom tank robot for Siemens' smart manufacturing use case. Future of Automation Tech Talk Series, Siemens Technology, Princeton, 2023.
-
-<a name="Thesis"></a> **[Thesis]** **S. Gumussoy**, [Optimal H-infinity Controller Design and Strong Stabilization for Time-Delay and MIMO Systems](http://rave.ohiolink.edu/etdc/view?acc_num=osu1092850391). Ph.D. Thesis, Ohio State University, Electrical Engineering, 2004.
 
 <a name="Webinar"></a> **[Webinar]** **S. Gumussoy**, [Time-Delay Systems: Analysis and Design with MATLAB and Simulink](http://www.mathworks.com/videos/time-delay-systems-analysis-and-design-with-matlab-and-simulink-81948.html). MathWorks, December 4, 2012.
 
