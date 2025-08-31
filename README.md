@@ -61,29 +61,41 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 
 <a name="P1"> **[P1]** **S. Gumussoy**, P. J. Mosterman, A. Ozdemir, </a>[Discretization of a model of a system or a portion of the model using system inputs and outputs](https://patents.google.com/patent/US20190026404A1/en). U.S. Patent, US20190026404A1, 2020.
 
+### Book
+
+<a name="Book"></a> H. Ozbay, **S. Gumussoy**, K. Kashima and Y. Yamamoto, [Frequency Domain Techniques for H-Infinity Control of Distributed Parameter Systems](https://doi.org/10.1137/1.9781611975406). Advances in Design and Control, SIAM, 2018.
+
+### Book Chapters
+
+<a name="BC4"> **[BC4]** **S. Gumussoy** and W. Michiels, </a>[Tuning an H-Infinity Controller with a Given Order and a Structure for Interconnected Systems with Delays](http://dx.doi.org/10.1007/978-3-319-05576-3_7). Low-Complexity Controllers for Time-Delay Systems, Advances in Delays and Dynamics (edited volume), pp. 95-110, Springer, 2014. <a href="https://arxiv.org/abs/2003.12356"><img src="assets/icon_arxiv.svg" width="40" /></a>
+
+<a name="BC3"></a> **[BC3]** **S. Gumussoy** and P. Gahinet, [Computer Aided Control System Design for Time Delay Systems using MATLAB](http://dx.doi.org/10.1007/978-3-319-01695-5_19). Delay Systems, Advances in Delays and Dynamics (edited volume), pp. 257-270, Springer, 2013. <a href="https://arxiv.org/abs/2003.04677"><img src="assets/icon_arxiv.svg" width="40" /></a>
+
+<a name="BC2"></a> **[BC2]** W. Michiels and **S. Gumussoy**, [Eigenvalue based algorithms and software for the design of fixed-order stabilizing controllers for interconnected systems with time-delays](http://dx.doi.org/10.1007/978-3-319-01695-5_18). Delay Systems, Advances in Delays and Dynamics (edited volume), pp. 243-256, Springer, 2013. <a href="https://arxiv.org/abs/2003.05496"><img src="assets/icon_arxiv.svg" width="40" /></a>
+
+<a name="BC1"></a> **[BC1]** **S. Gumussoy** and W. Michiels, [Fixed-order H-infinity Optimization of Time-Delay Systems](https://doi.org/10.1007/978-3-642-12598-0_10). Recent Advances in Optimization and its Applications in Engineering (edited volume), pp. 103-112, Springer, 2010. <a href="https://arxiv.org/abs/2003.10628"><img src="assets/icon_arxiv.svg" width="40" /></a>
+
 ### Journal Papers
 
-<a name="J24"></a> **[J24]** V. Reddy, **S. Gumussoy**, A. Boker and H. Eldardiry, [A bottom-up approach for searching for sparse controllers with a budget](https://doi.org/10.1016/j.ifacsc.2025.100308). IFAC Journal of Systems and Control, vol. 32, 2025.
+<a name="J24"></a> **[J23]** V. Reddy, **S. Gumussoy**, A. Boker and H. Eldardiry, [A bottom-up approach for searching for sparse controllers with a budget](https://doi.org/10.1016/j.ifacsc.2025.100308). IFAC Journal of Systems and Control, vol. 32, 2025.
 
-<a name="J23"></a> **[J23]** J. Vanhuyse, C. Bertheaume, **S. Gumussoy** and M. Nicolai, [Conceptual closed-loop design of automotive cooling systems leveraging reinforcement learning](https://doi.org/10.1007/s10010-025-00814-1). Forschung im Ingenieurwesen, vol. 89, no. 38, 2025.
+<a name="J23"></a> **[J22]** J. Vanhuyse, C. Bertheaume, **S. Gumussoy** and M. Nicolai, [Conceptual closed-loop design of automotive cooling systems leveraging reinforcement learning](https://doi.org/10.1007/s10010-025-00814-1). Forschung im Ingenieurwesen, vol. 89, no. 38, 2025.
 
-<a name="J22"></a> **[J22]** N. Junnarkar, E. Jensen, X. Wu, **S. Gumussoy** and M. Arcak, [Grouping of N − 1 Contingencies for Controller Synthesis: A Study for Power Line Failures](https://doi.org/10.1109/TPWRS.2024.3393866). IEEE Transactions on Power Systems, vol. 40, no. 1, pp. 585-596, 2025. <a href="https://arxiv.org/html/2404.07415v1"><img src="assets/icon_arxiv.svg" width="40" /></a>
+<a name="J22"></a> **[J21]** N. Junnarkar, E. Jensen, X. Wu, **S. Gumussoy** and M. Arcak, [Grouping of N − 1 Contingencies for Controller Synthesis: A Study for Power Line Failures](https://doi.org/10.1109/TPWRS.2024.3393866). IEEE Transactions on Power Systems, vol. 40, no. 1, pp. 585-596, 2025. <a href="https://arxiv.org/html/2404.07415v1"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
-<a name="J21"></a> **[J21]** E. Jensen, N. Junnarkar, M. Arcak, X. Wu and **S. Gumussoy**, [Certifying Stability and Performance of Uncertain Differential-Algebraic Systems: A Dissipativity Framework](https://doi.org/10.1109/TCNS.2024.3510585). IEEE Transactions on Control of Network Systems, vol. 12, no. 1, pp. 18-27, 2024. <a href="https://arxiv.org/abs/2308.08471"><img src="assets/icon_arxiv.svg" width="40" /></a>
+<a name="J21"></a> **[J20]** E. Jensen, N. Junnarkar, M. Arcak, X. Wu and **S. Gumussoy**, [Certifying Stability and Performance of Uncertain Differential-Algebraic Systems: A Dissipativity Framework](https://doi.org/10.1109/TCNS.2024.3510585). IEEE Transactions on Control of Network Systems, vol. 12, no. 1, pp. 18-27, 2024. <a href="https://arxiv.org/abs/2308.08471"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
-<a name="J20"></a> **[J20]** T. Basaklar, A. A. Goksoy, A. Krishnakumar, **S. Gumussoy**, U. Y. Ogras, [DTRL: Decision Tree-based Multi-Objective Reinforcement Learning for Runtime Task Scheduling in Domain-Specific System-on-Chips](https://dl.acm.org/doi/abs/10.1145/3609108). ACM Transactions on Embedded Computing Systems, no. 113, pp. 1–22, 2023.
+<a name="J20"></a> **[J19]** T. Basaklar, A. A. Goksoy, A. Krishnakumar, **S. Gumussoy**, U. Y. Ogras, [DTRL: Decision Tree-based Multi-Objective Reinforcement Learning for Runtime Task Scheduling in Domain-Specific System-on-Chips](https://dl.acm.org/doi/abs/10.1145/3609108). ACM Transactions on Embedded Computing Systems, no. 113, pp. 1–22, 2023.
 
-<a name="J19"></a> **[J19]** S. An, G. Bhat, **S. Gumussoy** and U. Y. Ogras, [Transfer Learning for Human Activity Recognition using Representational Analysis of Neural Networks](https://doi.org/10.1145/3563948). ACM Transactions on Computing for Healthcare, vol. 4, no. 5, pp. 1-21, 2023. <a href="https://arxiv.org/abs/2012.04479"><img src="assets/icon_arxiv.svg" width="40" /></a>
+<a name="J19"></a> **[J18]** S. An, G. Bhat, **S. Gumussoy** and U. Y. Ogras, [Transfer Learning for Human Activity Recognition using Representational Analysis of Neural Networks](https://doi.org/10.1145/3563948). ACM Transactions on Computing for Healthcare, vol. 4, no. 5, pp. 1-21, 2023. <a href="https://arxiv.org/abs/2012.04479"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
-<a name="J18"></a> **[J18]** N. Xue, X. Wu, **S. Gumussoy**, U. Muenz, A. Mesanovic, Z. Dong, G. Bharati, S. Chakraborty, L. Cockcroft  and L. Dangelmaier, [Dynamic Security Optimization for N-1 Secure Operation of Hawai‘i Island System with 100% Inverter-Based Resources](https://doi.org/10.1109/TSG.2021.3135232). IEEE Transactions on Smart Grid, vol. 13, no. 5, pp. 4009-4021, September 2022.
+<a name="J18"></a> **[J17]** N. Xue, X. Wu, **S. Gumussoy**, U. Muenz, A. Mesanovic, Z. Dong, G. Bharati, S. Chakraborty, L. Cockcroft  and L. Dangelmaier, [Dynamic Security Optimization for N-1 Secure Operation of Hawai‘i Island System with 100% Inverter-Based Resources](https://doi.org/10.1109/TSG.2021.3135232). IEEE Transactions on Smart Grid, vol. 13, no. 5, pp. 4009-4021, September 2022.
 
-<a name="J17"></a> **[J17]** G. Bhat, **S. Gumussoy** and U. Y. Ogras, [Analysis and Control of Power-Temperature Dynamics in Heterogeneous Multiprocessors](https://doi.org/10.1109/TCST.2020.2974421). IEEE Transactions on Control Systems Technology, vol. 29, no. 1, pp. 329-341, 2020. <a href="https://arxiv.org/abs/2003.11081"><img src="assets/icon_arxiv.svg" width="40" /></a>
+<a name="J17"></a> **[J16]** G. Bhat, **S. Gumussoy** and U. Y. Ogras, [Analysis and Control of Power-Temperature Dynamics in Heterogeneous Multiprocessors](https://doi.org/10.1109/TCST.2020.2974421). IEEE Transactions on Control Systems Technology, vol. 29, no. 1, pp. 329-341, 2020. <a href="https://arxiv.org/abs/2003.11081"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
-<a name="J16"></a> **[J16]** **S. Gumussoy** and M. Abu-Khalaf, [Analytic Solution of a Delay differential Equation Arising in Cost Functionals for System with Distributed Delays](https://doi.org/10.1109/TAC.2019.2921658). IEEE Transactions on Automatic Control, vol. 64, no. 11, pp. 4833-4840, 2019. <a href="https://arxiv.org/abs/1804.06713"><img src="assets/icon_arxiv.svg" width="40" /></a>
+<a name="J16"></a> **[J15]** **S. Gumussoy** and M. Abu-Khalaf, [Analytic Solution of a Delay differential Equation Arising in Cost Functionals for System with Distributed Delays](https://doi.org/10.1109/TAC.2019.2921658). IEEE Transactions on Automatic Control, vol. 64, no. 11, pp. 4833-4840, 2019. <a href="https://arxiv.org/abs/1804.06713"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
-<a name="J15"></a> **[J15]** U. Gupta, M. Babu, R. Ayoub, M. Kishinevsky, F. Paterna, **S. Gumussoy** and U. Y. Ogras, [An Online Learning Methodology for Performance Modeling of Graphics Processors](https://doi.org/10.1109/TC.2018.2840710). IEEE Transactions on Computers, vol. 67, no. 12, pp. 1677-1691, 2018. <a href="https://arxiv.org/abs/2003.11740"><img src="assets/icon_arxiv.svg" width="40" /></a>
-
-<a name="J14"></a> **[J14]** M. Abu-Khalaf and **S. Gumussoy**, [Comments on: “Lyapunov matrices for a class of time delays systems” by V. L. Kharitonov](https://arxiv.org/abs/1802.06831). ArXiv, 2018.
+<a name="J15"></a> **[J14]** U. Gupta, M. Babu, R. Ayoub, M. Kishinevsky, F. Paterna, **S. Gumussoy** and U. Y. Ogras, [An Online Learning Methodology for Performance Modeling of Graphics Processors](https://doi.org/10.1109/TC.2018.2840710). IEEE Transactions on Computers, vol. 67, no. 12, pp. 1677-1691, 2018. <a href="https://arxiv.org/abs/2003.11740"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
 <a name="J13"></a> **[J13]** G. Bhat, **S. Gumussoy** and U. Y. Ogras, [Power-Temperature Stability and Safety Analysis for Multiprocessor Systems](https://doi.org/10.1145/3126567). ACM Transactions on Embedded Computing Systems, vol. 16, no. 5, pp. 145:1-20, 2017. <a href="https://arxiv.org/abs/1806.06180"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
@@ -113,9 +125,7 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 
 ### Conference Proceedings, Arxiv, and Abstracts
 
-<a name="C39"></a> **[C39]** S. Bhela, **S. Gumussoy**, D. J. Kelly, M. J. Reno, A. Banaie, and U. Muenz, Co-optimization of Inverter Controls and Line Protection Functions for Improved Protection Reliability and System Stability. IEEE Power & Energy Society General Meeting (PESGM), 2025.
-
-<a name="C38"></a> **[C38]** V. R. Baddam, **S. Gumussoy**, A. Boker, and H. Eldardiry, [Learning Emergence of Interaction Patterns across Independent RL Agents in Multi-Agent Environments](https://arxiv.org/abs/2410.02516). ArXiv, 2024.
+<a name="C39"></a> **[C38]** S. Bhela, **S. Gumussoy**, D. J. Kelly, M. J. Reno, A. Banaie, and U. Muenz, Co-optimization of Inverter Controls and Line Protection Functions for Improved Protection Reliability and System Stability. IEEE Power & Energy Society General Meeting (PESGM), 2025.
 
 <a name="C37"></a> **[C37]** C. Bonnet, H. Ozbay, M. O. Yegin and **S. Gumussoy**, [Implementation of Stabilizing Controllers for Retarded Delay Systems](https://www.sciencedirect.com/science/article/pii/S2405896324020937/pdf?md5=7ed1866147e66c93614c5de51e70fa62&pid=1-s2.0-S2405896324020937-main.pdf). IFAC Workshop on Time Delay Systems, 2024.
 
@@ -191,19 +201,11 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 
 <a name="C1"></a> **[C1]** **S. Gumussoy** and H. Ozbay, [Control of Systems with Infinitely Many Unstable Modes and Strong Stabilizing Controllers Achieving a Desired Sensitivity](https://arxiv.org/abs/2003.01003). 15th International Symposium on Mathematical Theory of Network and Systems, pp. 1-10, 2002.
 
-### Book
+### ArXiv Papers
 
-<a name="Book"></a> H. Ozbay, **S. Gumussoy**, K. Kashima and Y. Yamamoto, [Frequency Domain Techniques for H-Infinity Control of Distributed Parameter Systems](https://doi.org/10.1137/1.9781611975406). Advances in Design and Control, SIAM, 2018.
+<a name="C38"></a> **[A2]** V. R. Baddam, **S. Gumussoy**, A. Boker, and H. Eldardiry, [Learning Emergence of Interaction Patterns across Independent RL Agents in Multi-Agent Environments](https://arxiv.org/abs/2410.02516). ArXiv, 2024.
 
-### Book Chapters
-
-<a name="BC4"> **[BC4]** **S. Gumussoy** and W. Michiels, </a>[Tuning an H-Infinity Controller with a Given Order and a Structure for Interconnected Systems with Delays](http://dx.doi.org/10.1007/978-3-319-05576-3_7). Low-Complexity Controllers for Time-Delay Systems, Advances in Delays and Dynamics (edited volume), pp. 95-110, Springer, 2014. <a href="https://arxiv.org/abs/2003.12356"><img src="assets/icon_arxiv.svg" width="40" /></a>
-
-<a name="BC3"></a> **[BC3]** **S. Gumussoy** and P. Gahinet, [Computer Aided Control System Design for Time Delay Systems using MATLAB](http://dx.doi.org/10.1007/978-3-319-01695-5_19). Delay Systems, Advances in Delays and Dynamics (edited volume), pp. 257-270, Springer, 2013. <a href="https://arxiv.org/abs/2003.04677"><img src="assets/icon_arxiv.svg" width="40" /></a>
-
-<a name="BC2"></a> **[BC2]** W. Michiels and **S. Gumussoy**, [Eigenvalue based algorithms and software for the design of fixed-order stabilizing controllers for interconnected systems with time-delays](http://dx.doi.org/10.1007/978-3-319-01695-5_18). Delay Systems, Advances in Delays and Dynamics (edited volume), pp. 243-256, Springer, 2013. <a href="https://arxiv.org/abs/2003.05496"><img src="assets/icon_arxiv.svg" width="40" /></a>
-
-<a name="BC1"></a> **[BC1]** **S. Gumussoy** and W. Michiels, [Fixed-order H-infinity Optimization of Time-Delay Systems](https://doi.org/10.1007/978-3-642-12598-0_10). Recent Advances in Optimization and its Applications in Engineering (edited volume), pp. 103-112, Springer, 2010. <a href="https://arxiv.org/abs/2003.10628"><img src="assets/icon_arxiv.svg" width="40" /></a>
+<a name="J14"></a> **[A1]** M. Abu-Khalaf and **S. Gumussoy**, [Comments on: “Lyapunov matrices for a class of time delays systems” by V. L. Kharitonov](https://arxiv.org/abs/1802.06831). ArXiv, 2018.
 
 ### Others
 
