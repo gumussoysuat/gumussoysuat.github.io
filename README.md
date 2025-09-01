@@ -75,7 +75,7 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 
 <a name="BC1"></a> **[BC1]** **S. Gumussoy** and W. Michiels, [Fixed-order H-infinity Optimization of Time-Delay Systems](https://doi.org/10.1007/978-3-642-12598-0_10). Recent Advances in Optimization and its Applications in Engineering (edited volume), pp. 103-112, Springer, 2010. <a href="https://arxiv.org/abs/2003.10628"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
-### Journal Papers
+### Journal Publications
 
 <a name="J24"></a> **[J23]** V. Reddy, **S. Gumussoy**, A. Boker and H. Eldardiry, [A bottom-up approach for searching for sparse controllers with a budget](https://doi.org/10.1016/j.ifacsc.2025.100308). IFAC Journal of Systems and Control, vol. 32, 2025.
 
@@ -123,7 +123,7 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 
 <a name="J1"></a> **[J1]** **S. Gumussoy** and H. Ozbay, [On the Mixed Sensitivity Minimization for Systems with Infinitely Many Unstable Modes](http://dx.doi.org/10.1016/j.sysconle.2004.04.007). Systems and Control Letters, vol. 53, no. 3-4, pp. 211-216, 2004. <a href="https://arxiv.org/abs/2003.05773"><img src="assets/icon_arxiv.svg" width="40" /></a>
 
-### Conference Proceedings and Abstracts
+### Conference Publications
 
 <a name="C39"></a> **[C38]** S. Bhela, **S. Gumussoy**, D. J. Kelly, M. J. Reno, A. Banaie, and U. Muenz, Co-optimization of Inverter Controls and Line Protection Functions for Improved Protection Reliability and System Stability. IEEE Power & Energy Society General Meeting (PESGM), 2025.
 
@@ -201,13 +201,13 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 
 <a name="C1"></a> **[C1]** **S. Gumussoy** and H. Ozbay, [Control of Systems with Infinitely Many Unstable Modes and Strong Stabilizing Controllers Achieving a Desired Sensitivity](https://arxiv.org/abs/2003.01003). 15th International Symposium on Mathematical Theory of Network and Systems, pp. 1-10, 2002.
 
-### ArXiv Publications
+### ArXiv Preprints
 
 <a name="C38"></a> **[A2]** V. R. Baddam, **S. Gumussoy**, A. Boker, and H. Eldardiry, [Learning Emergence of Interaction Patterns across Independent RL Agents in Multi-Agent Environments](https://arxiv.org/abs/2410.02516). ArXiv, 2024.
 
 <a name="J14"></a> **[A1]** M. Abu-Khalaf and **S. Gumussoy**, [Comments on: “Lyapunov matrices for a class of time delays systems” by V. L. Kharitonov](https://arxiv.org/abs/1802.06831). ArXiv, 2018.
 
-### Thesis
+### Dissertation
 
 <a name="Thesis"></a> **S. Gumussoy**, [Optimal H-infinity Controller Design and Strong Stabilization for Time-Delay and MIMO Systems](http://rave.ohiolink.edu/etdc/view?acc_num=osu1092850391). Ph.D. Thesis, Ohio State University, Electrical Engineering, 2004.
 
