@@ -60,7 +60,7 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 
 <a name="P6"></a> **[P2]** Y. Wang, U. Muenz, **S. Gumussoy**, [Multi-asset placement and sizing for robust operation of distribution systems](https://patents.google.com/patent/US20240232472A1/en). U.S. Patent Application: US20240232472A1, published on July 11, 2024. Assigned to Siemens Corporation. Status: Pending, July 2024.
 
-<a name="P1"> **[P1]** **S. Gumussoy**, P. J. Mosterman, A. Ozdemir, </a>[Discretization of a model of a system or a portion of the model using system inputs and outputs](https://patents.google.com/patent/US20190026404A1/en). U.S. Patent: US20190026404A1, granted on October 27, 2020. Assigned to MathWorks Inc. Status: Active, October 2020.
+<a name="P1"> **[P1]** **S. Gumussoy**, P. J. Mosterman, A. Ozdemir, [Discretization of a model of a system or a portion of the model using system inputs and outputs](https://patents.google.com/patent/US20190026404A1/en). U.S. Patent: US20190026404A1, granted on October 27, 2020. Assigned to MathWorks Inc. Status: Active, October 2020.
 
 ### Book
 
