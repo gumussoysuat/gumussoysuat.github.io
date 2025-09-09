@@ -43,23 +43,24 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 ## Publications <img src="assets/icon_publications.png" width="26" />
 
 ### Patents
-<a name="P9"></a> **[P9]** **S. Gumussoy**, J. Vanhuyse, M. Nicolai, S. Evmorfos, Fast policy training across multiple architectures using reinforcement learning for generative engineering. International Patent Application (PCT): PCT/US2025/01489, filed February 7, 2025. Assigned to Siemens Corporation. Status: Pending.
 
-<a name="P8"></a> **[P8]** X. Wu, M. K. Erdal, **S. Gumussoy**, U. Muenz, [Online calibration of power system model using time series measurement data](https://patents.google.com/patent/EP4573637A1/en). European Patent Application: EP4573637A1, published June 25, 2025. Assigned to Siemens Corporation. Status: Pending.
+<a name="P8"></a> **[P9]** X. Wu, M. K. Erdal, **S. Gumussoy**, U. Muenz, [Online calibration of power system model using time series measurement data](https://patents.google.com/patent/EP4573637A1/en). European Patent Application: EP4573637A1, published June 25, 2025. Assigned to Siemens Corporation. Status: Pending, June 2025.
 
-<a name="P7"></a> **[P7]** G. Markov, C.J. Budnik, H.H. Degen, Z. Min, **S. Gumussoy**, X. Wu, L. Gilpin, CLEAR-GRID Increase Clarity and Reduce stress for Grid operators, Increase decision accuracy, and Decrease time to decision making using a human-centered RAG approach. U.S. Provisional Patent Application: 63/755,650, filed on February 7, 2025. Assigned to Siemens Corporation. Status: Filed.
+<a name="P3"></a> **[P8]** X. Wu, U. Muenz, **S. Gumussoy**, R. Ganjavi, [Inverter-based resource (IBR) optimized fault-level adjustment based on fault location](https://patents.google.com/patent/US20250125615A1/en). U.S. Patent Application: US20250125615A1, published on April 17, 2025. Assigned to Siemens Corporation and Siemens AG. Status: Pending, April 2025.
 
-<a name="P6"></a> **[P6]** Y. Wang, U. Muenz, **S. Gumussoy**, [Multi-asset placement and sizing for robust operation of distribution systems](https://patents.google.com/patent/US20240232472A1/en). U.S. Patent Application: US20240232472A1, published on July 11, 2024. Assigned to Siemens Corporation. Status: Pending.
+<a name="P9"></a> **[P7]** **S. Gumussoy**, J. Vanhuyse, M. Nicolai, S. Evmorfos, Fast policy training across multiple architectures using reinforcement learning for generative engineering. International Patent Application (PCT): PCT/US2025/01489, filed February 7, 2025. Assigned to Siemens Corporation. Status: Pending, February 2025.
 
-<a name="P5"></a> **[P5]** X. Wu, U. Muenz, **S. Gumussoy**, [Determining location and sizing of a new power unit within a current system architecture of a power system or a grid](https://patents.google.com/patent/US20240354465A1/en). U.S. Patent Application: US20240354465A1, published on October 24, 2024. Assigned to Siemens Corporation. Status: Pending.
+<a name="P7"></a> **[P6]** G. Markov, C.J. Budnik, H.H. Degen, Z. Min, **S. Gumussoy**, X. Wu, L. Gilpin, CLEAR-GRID Increase Clarity and Reduce stress for Grid operators, Increase decision accuracy, and Decrease time to decision making using a human-centered RAG approach. U.S. Provisional Patent Application: 63/755,650, filed on February 7, 2025. Assigned to Siemens Corporation. Status: Filed, February 2025.
 
-<a name="P3"></a> **[P4]** X. Wu, U. Muenz, **S. Gumussoy**, R. Ganjavi, [Inverter-based resource (IBR) optimized fault-level adjustment based on fault location](https://patents.google.com/patent/US20250125615A1/en). U.S. Patent Application: US20250125615A1, published on April 17, 2025. Assigned to Siemens Corporation and Siemens AG. Status: Pending.
+<a name="P4"></a> **[P5]** D. Hartmann, A. Pandey, **S. Gumussoy**, U. Muenz, [Explicit rule-based control of complex dynamical systems](https://patents.google.com/patent/US20240345549A1/en). U.S. Patent Application: US20240345549A1, published on October 17, 2024. Assigned to Siemens AG and Siemens Corporation. Status: Pending, October 2024.
 
-<a name="P4"></a> **[P3]** D. Hartmann, A. Pandey, **S. Gumussoy**, U. Muenz, [Explicit rule-based control of complex dynamical systems](https://patents.google.com/patent/US20240345549A1/en). U.S. Patent Application: US20240345549A1, published on October 17, 2024. Assigned to Siemens AG and Siemens Corporation. Status: Pending.
+<a name="P5"></a> **[P4]** X. Wu, U. Muenz, **S. Gumussoy**, [Determining location and sizing of a new power unit within a current system architecture of a power system or a grid](https://patents.google.com/patent/US20240354465A1/en). U.S. Patent Application: US20240354465A1, published on October 24, 2024. Assigned to Siemens Corporation. Status: Pending, October 2024.
 
-<a name="P2"></a> **[P2]** **S. Gumussoy**, X. Wu, U. Muenz, [Power system model calibration using measurement data](https://patents.google.com/patent/US20240296261A1/en). U.S. Patent Application: US20240296261A1, published on September 5, 2024. Assigned to Siemens Corporation and U.S. Department of Energy. Status: Pending.
+<a name="P2"></a> **[P3]** **S. Gumussoy**, X. Wu, U. Muenz, [Power system model calibration using measurement data](https://patents.google.com/patent/US20240296261A1/en). U.S. Patent Application: US20240296261A1, published on September 5, 2024. Assigned to Siemens Corporation and U.S. Department of Energy. Status: Pending, September 2024.
 
-<a name="P1"> **[P1]** **S. Gumussoy**, P. J. Mosterman, A. Ozdemir, </a>[Discretization of a model of a system or a portion of the model using system inputs and outputs](https://patents.google.com/patent/US20190026404A1/en). U.S. Patent: US20190026404A1, granted on October 27, 2020. Assigned to MathWorks Inc. Status: Active.
+<a name="P6"></a> **[P2]** Y. Wang, U. Muenz, **S. Gumussoy**, [Multi-asset placement and sizing for robust operation of distribution systems](https://patents.google.com/patent/US20240232472A1/en). U.S. Patent Application: US20240232472A1, published on July 11, 2024. Assigned to Siemens Corporation. Status: Pending, July 2024.
+
+<a name="P1"> **[P1]** **S. Gumussoy**, P. J. Mosterman, A. Ozdemir, </a>[Discretization of a model of a system or a portion of the model using system inputs and outputs](https://patents.google.com/patent/US20190026404A1/en). U.S. Patent: US20190026404A1, granted on October 27, 2020. Assigned to MathWorks Inc. Status: Active, October 2020.
 
 ### Book
 
