@@ -126,6 +126,8 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 
 ### Conference Publications
 
+<a name="C38new"></a> **[C39]** M. Cao, Y. Huang, **S. Gumussoy**, U. Y. Ogras. Mamba World Model for RL: Enhancing Long-term Memory in Model-based Reinforcement Learning. 24th International Conference on Machine Learning and Applications (Accepted), December 2025.
+
 <a name="C39"></a> **[C38]** S. Bhela, **S. Gumussoy**, D. J. Kelly, M. J. Reno, A. Banaie, and U. Muenz. Co-optimization of Inverter Controls and Line Protection Functions for Improved Protection Reliability and System Stability. IEEE Power & Energy Society General Meeting (PESGM), 2025.
 
 <a name="C36"></a> **[C37]** V. R. Baddam, **S. Gumussoy**, H. Eldardiry, and A. Boker. [Searching for Sparse Controllers with a Budget: A Bottom-Up Approach](https://doi.org/10.23919/ACC60939.2024.10644330). IEEE American Control Conference, 2024. <a href="https://www.researchgate.net/publication/382298510_Searching_for_Sparse_Controllers_with_a_Budget_A_Bottom-Up_Approach"><img src="assets/icon_arxiv.svg" width="40" /></a>
