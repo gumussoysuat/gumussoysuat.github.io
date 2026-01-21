@@ -128,8 +128,6 @@ He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifa
 
 <a name="C40"></a> **[C40]** A. Stinskiy, U. Muenz, A. Banerjee, **S. Gumussoy**, S. Elpelt, S. Sano, and T. Barik. From Analog CT, PT to Digital Process Bus - Hardware-in-the-Loop Protection Studies for Inverter-Dominated Transmission Systems. 79th Annual Conference for Protective Relay Engineers (Accepted) and Georgia Tech Fault Protective Relaying Conference (Accepted), April 2026.
 
-<a name="C35"></a> **[C34]** T. Basaklar, **S. Gumussoy**, and U. Y, Ogras. [PD-MORL: Preference-Driven Multi-Objective Reinforcement Learning Algorithm](https://openreview.net/forum?id=zS9sRyaPFlJ). NeurIPS Deep RL Workshop. 2022. 11th International Conference on Learning Representations (ICLR) Design, 2023. <a href="https://arxiv.org/abs/2208.07914"><img src="assets/icon_arxiv.svg" width="40" /></a>
-
 <a name="C38new"></a> **[C39]** M. Cao, Y. Huang, **S. Gumussoy**, U. Y. Ogras. Mamba World Model for RL: Enhancing Long-term Memory in Model-based Reinforcement Learning. 24th International Conference on Machine Learning and Applications, December 2025.
 
 <a name="C39"></a> **[C38]** S. Bhela, **S. Gumussoy**, D. J. Kelly, M. J. Reno, A. Banaie, and U. Muenz. Co-optimization of Inverter Controls and Line Protection Functions for Improved Protection Reliability and System Stability. IEEE Power & Energy Society General Meeting (PESGM), 2025.
