@@ -13,32 +13,22 @@
   </td>
   
   <td>
-<p>Dr. Gumussoy is a senior key expert on Closed-Loop AI at <a href="https://www.siemens.com/us/en/company/about/siemens-in-the-usa/new-jersey.html">Siemens Foundational Technologies</a>. His research interests are <em>digital twin modeling, AI-driven control and design and their applications to control of power systems, smart manufacturing, and edge platforms.</em></p>
+<p>Dr. Gumussoy is an Associate Professor in the Department of <a href="https://ece.utdallas.edu">Electrical and Computer Engineering</a> at the <a href="https://www.utdallas.edu">University of Texas at Dallas</a>, where he leads a research program on Closed-Loop AI — bridging <em>control theory, system identification, and machine learning, applied to power systems, smart manufacturing, and edge platforms</em>.
 
-He is a Senior Member of IEEE since 2020 and a member of <a href="https://tc.ifac-control.org/2/2">IFAC Technical Committee on Linear Control Systems</a> since 2022. He served as an Associate Editor in <a href="http://ieeecss.org/publication/transactions-control-systems-technology">IEEE Transactions on Control Systems Technology</a> (2018-2022) and <a href="http://ieeecss.org/conferences/conference-editorial-board">IEEE Conference Editorial Board</a> (2018-2022).
+He previously spent 7 years at <a href="https://www.siemens.com/us/en/company/about/siemens-in-the-usa/new-jersey.html">Siemens Research</a>, most recently as Senior Key Expert on Closed-Loop AI in the Autonomous Control and Operations group, leading research on ARPA-E ReNew100 and PICO and filing 8+ patents. He is a Senior Member of IEEE since 2020 and a member of the <a href="https://tc.ifac-control.org/2/2">IFAC Technical Committee on Linear Control Systems</a> since 2022. He served as an Associate Editor for <a href="http://ieeecss.org/publication/transactions-control-systems-technology">IEEE Transactions on Control Systems Technology</a> (2018–2022) and the <a href="http://ieeecss.org/conferences/conference-editorial-board">IEEE Conference Editorial Board</a> (2018–2022).
 </td>
 </tr>
 </table>
 
 ## Software <img src="assets/icon_sw.png" width="25" />
 
-**@Siemens:** Jointly architected a reinforcement learning toolbox, SCS-Reinforce, inside [Simcenter Studio](https://www.plm.automation.siemens.com/global/en/products/simcenter/simcenter-studio.html) with Siemens DI SW. Working together for the next cool features for our customers. Implemented new algorithms for tuning and calibration of power systems.
+**@Siemens Research:** Co-architected SCS-Reinforce, a reinforcement learning toolbox inside inside [Simcenter Studio](https://www.plm.automation.siemens.com/global/en/products/simcenter/simcenter-studio.html), and shaped its ongoing roadmap. Implemented new algorithms for tuning and calibration of ARPA-E power system projects in the intersection of AI and control.
 
-**@MathWorks:** Key contributions to [Reinforcement Learning Toolbox](https://www.mathworks.com/products/reinforcement-learning.html), [Robust Control Toolbox](https://www.mathworks.com/products/robust.html), [System Identification Toolbox](https://www.mathworks.com/products/sysid.html) and [Control System Toolbox](https://www.mathworks.com/products/control.html). Some highlights:
-<ul>
-  <li><b>Toolbox:</b> Lead engineer and architect in <a href="https://www.mathworks.com/products/reinforcement-learning.html">Reinforcement Learning Toolbox</a> including software architecture design, algorithm implementation, and team supervision.</li>
-  <li><b>Algorithms:</b> Designed and implemented essential algorithms for MATLAB.</li>
-    <ul>    
-      <li>Designed more accurate <a href="https://www.mathworks.com/help/control/ref/dynamicsystem.c2d.html">continuous to discrete conversion algorithm</a> in c2d, least squares option.</li>
-      <li>Authored faster and more accurate <a href="https://www.mathworks.com/help/ident/ref/tfest.html">transfer function estimation algorithm</a> from frequency-domain data in tfest.</li>
-      <li>Implemented the <a href="https://www.mathworks.com/help/control/ref/dynamicsystem.balred.html">limited balanced truncation algorithm</a> to reduce model according to energies within time- and frequency-domain intervals.</li>
-    </ul>
-  <li><b>App Tools:</b> Authored the <a href="http://www.mathworks.com/help/control/ref/modelreducer-app.html">Model Reducer</a> for model reduction (<a href="http://www.mathworks.com/videos/model-order-reduction-with-the-model-reducer-app-118008.html">example</a>) and <a href="http://www.mathworks.com/help/slcontrol/tuning-with-control-system-tuner.html">Control System Tuner</a> for fixed-order distributed controller design (<a href="https://www.youtube.com/watch?v=stIS32tsbPI">example 1</a>, <a href="http://blogs.mathworks.com/seth/2014/04/03/control-system-tuning-without-guess-or-stress/">example 2</a>).</li>
-</ul>
+**@MathWorks:** Key contributions to [Reinforcement Learning Toolbox](https://www.mathworks.com/products/reinforcement-learning.html), [Robust Control Toolbox](https://www.mathworks.com/products/robust.html), [System Identification Toolbox](https://www.mathworks.com/products/sysid.html) and [Control System Toolbox](https://www.mathworks.com/products/control.html) including lead engineer/architect role on Reinforcement Learning Toolbox, the least-squares option in <a href="https://www.mathworks.com/help/control/ref/dynamicsystem.c2d.html">c2d</a>, the frequency-domain <a href="https://www.mathworks.com/help/ident/ref/tfest.html">tfest</a> estimation algorithm, and the <a href="https://www.mathworks.com/help/control/ref/dynamicsystem.balred.html">limited balanced truncation algorithm</a>. Authored the <a href="http://www.mathworks.com/help/control/ref/modelreducer-app.html">Model Reducer</a> and <a href="http://www.mathworks.com/help/slcontrol/tuning-with-control-system-tuner.html">Control System Tuner</a> apps.
 
-**@University of Leuven:** Designed and implemented a MATLAB toolbox for [analysis and control for time-delay systems](http://twr.cs.kuleuven.be/research/software/delay-control/index.html). The toolbox includes numerical algorithms for [H-infinity norm](http://twr.cs.kuleuven.be/research/software/delay-control/hinf/) and [pseudospectral abscissa](http://twr.cs.kuleuven.be/research/software/delay-control/psa/) computations and [H-infinity controller design](http://twr.cs.kuleuven.be/research/software/delay-control/hinfopt/) using nonsmooth, nonconvex optimization methods.
+**@University of Leuven:** Designed and implemented a MATLAB toolbox for [analysis and control for time-delay systems](http://twr.cs.kuleuven.be/research/software/delay-control/index.html) ([H-infinity norm](http://twr.cs.kuleuven.be/research/software/delay-control/hinf/), [pseudospectral abscissa](http://twr.cs.kuleuven.be/research/software/delay-control/psa/), [nonsmooth H-infinity controller design](http://twr.cs.kuleuven.be/research/software/delay-control/hinfopt/)).
 
-**@New York University, Courant Institute of Mathematical Sciences:** Contributed to the [MATLAB toolbox for fixed-order controller design](http://www.cs.nyu.edu/overton/software/hifoo/) (HIFOO). This toolbox solves several key control problems including fixed-order (strong/simultaneous) stabilization, H-infinity & H-2 optimization for mixed problems and multiple plants.
+**@NYU Courant:** Contributed to the [HIFOO](http://www.cs.nyu.edu/overton/software/hifoo/), a MATLAB toolbox for fixed-order controller design.
 
 ## Publications <img src="assets/icon_publications.png" width="26" />
 
