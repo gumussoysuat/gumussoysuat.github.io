@@ -2,33 +2,7 @@
 
 ## Bio <img src="assets/icon_bio.png" width="20" />
 
-<table style="width: 100%">
-    <colgroup>
-       <col span="1" style="width: 20%;">
-       <col span="1" style="width: 80%;">
-    </colgroup>  
-<tr>
-  <td>
-    <img src="assets/Suat.jpg" width="150" /> 
-  </td>
-  
-  <td>
-<p>Dr. Gumussoy is an Associate Professor in the Department of <a href="https://ece.utdallas.edu">Electrical and Computer Engineering</a> at the <a href="https://www.utdallas.edu">University of Texas at Dallas</a>, where he leads a research program on Closed-Loop AI — bridging <em>control theory, system identification, and machine learning, applied to power systems, smart manufacturing, and edge platforms</em>.</p>
 
-<p>He previously spent 7 years at <a href="https://www.siemens.com/us/en/company/about/siemens-in-the-usa/new-jersey.html">Siemens Research</a>, most recently as Senior Key Expert on Closed-Loop AI in the Autonomous Control and Operations group, leading research on ARPA-E ReNew100 and PICO and filing 8+ patents. He is a Senior Member of IEEE since 2020 and a member of the <a href="https://tc.ifac-control.org/2/2">IFAC Technical Committee on Linear Control Systems</a> since 2022. He served as an Associate Editor for <a href="http://ieeecss.org/publication/transactions-control-systems-technology">IEEE Transactions on Control Systems Technology</a> (2018–2022) and the <a href="http://ieeecss.org/conferences/conference-editorial-board">IEEE Conference Editorial Board</a> (2018–2022).</p>
-</td>
-</tr>
-</table>
-
-## Software <img src="assets/icon_sw.png" width="25" />
-
-**@Siemens Research:** Co-architected SCS-Reinforce, a reinforcement learning toolbox inside inside [Simcenter Studio](https://www.plm.automation.siemens.com/global/en/products/simcenter/simcenter-studio.html), and shaped its ongoing roadmap. Implemented new algorithms for tuning and calibration of ARPA-E power system projects in the intersection of AI and control.
-
-**@MathWorks:** Key contributions to [Reinforcement Learning Toolbox](https://www.mathworks.com/products/reinforcement-learning.html), [Robust Control Toolbox](https://www.mathworks.com/products/robust.html), [System Identification Toolbox](https://www.mathworks.com/products/sysid.html) and [Control System Toolbox](https://www.mathworks.com/products/control.html) including lead engineer/architect role on Reinforcement Learning Toolbox, the least-squares option in <a href="https://www.mathworks.com/help/control/ref/dynamicsystem.c2d.html">c2d</a>, the frequency-domain <a href="https://www.mathworks.com/help/ident/ref/tfest.html">tfest</a> estimation algorithm, and the <a href="https://www.mathworks.com/help/control/ref/dynamicsystem.balred.html">limited balanced truncation algorithm</a>. Authored the <a href="http://www.mathworks.com/help/control/ref/modelreducer-app.html">Model Reducer</a> and <a href="http://www.mathworks.com/help/slcontrol/tuning-with-control-system-tuner.html">Control System Tuner</a> apps.
-
-**@University of Leuven:** Designed and implemented a MATLAB toolbox for [analysis and control for time-delay systems](http://twr.cs.kuleuven.be/research/software/delay-control/index.html) ([H-infinity norm](http://twr.cs.kuleuven.be/research/software/delay-control/hinf/), [pseudospectral abscissa](http://twr.cs.kuleuven.be/research/software/delay-control/psa/), [nonsmooth H-infinity controller design](http://twr.cs.kuleuven.be/research/software/delay-control/hinfopt/)).
-
-**@NYU Courant:** Contributed to the [HIFOO](http://www.cs.nyu.edu/overton/software/hifoo/), a MATLAB toolbox for fixed-order controller design.
 
 ## Publications <img src="assets/icon_publications.png" width="26" />
 
